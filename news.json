@@ -1,17 +1,17 @@
 [
   {
+    "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+    "url": "https://blog.ammaraskar.com/github-token-stealing/",
+    "score": 334
+  },
+  {
+    "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+    "url": "https://github.com/s-macke/Test-Drive-3-Maps",
+    "score": 59
+  },
+  {
     "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
     "url": "https://github.com/c0dejedi/nbd-vram",
-    "score": 148
-  },
-  {
-    "title": "MAI-Code-1-Flash",
-    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "score": 396
-  },
-  {
-    "title": "CT scans of BYD car parts",
-    "url": "https://www.lumafield.com/scan-of-the-month/byd",
-    "score": 246
+    "score": 276
   }
 ]
