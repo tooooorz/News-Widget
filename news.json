@@ -2,16 +2,16 @@
   {
     "title": "Elixir v1.20: Now a gradually typed language",
     "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-    "score": 419
+    "score": 571
+  },
+  {
+    "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+    "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+    "score": 58
   },
   {
     "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-    "score": 617
-  },
-  {
-    "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-    "url": "https://burntsushi.net/encephalitis/",
-    "score": 417
+    "score": 710
   }
 ]
