@@ -1,17 +1,17 @@
 [
   {
+    "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
+    "url": "https://mouseless.click",
+    "score": 109
+  },
+  {
     "title": "Tracing a powerful GNSS interference source over Europe",
     "url": "https://arxiv.org/abs/2606.03673",
-    "score": 108
+    "score": 218
   },
   {
-    "title": "Changing How We Develop Ladybird",
-    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-    "score": 395
-  },
-  {
-    "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-    "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-    "score": 41
+    "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+    "url": "https://redis.io/blog/announcing-redis-8-8/",
+    "score": 93
   }
 ]
