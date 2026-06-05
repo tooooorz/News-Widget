@@ -1,17 +1,17 @@
 [
   {
+    "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "score": 175
+  },
+  {
+    "title": "pg_durable: Microsoft open sources in-database durable execution",
+    "url": "https://github.com/microsoft/pg_durable",
+    "score": 86
+  },
+  {
     "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
     "url": "https://mouseless.click",
-    "score": 109
-  },
-  {
-    "title": "Tracing a powerful GNSS interference source over Europe",
-    "url": "https://arxiv.org/abs/2606.03673",
-    "score": 218
-  },
-  {
-    "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-    "url": "https://redis.io/blog/announcing-redis-8-8/",
-    "score": 93
+    "score": 276
   }
 ]
