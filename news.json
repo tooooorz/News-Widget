@@ -1,17 +1,17 @@
 [
   {
+    "title": "Meta enables adb on deprecated Portal devices",
+    "url": "https://fb.watch/HxPu0fSyeH/",
+    "score": 67
+  },
+  {
+    "title": "Do transformers need three projections? Systematic study of QKV variants",
+    "url": "https://arxiv.org/abs/2606.04032",
+    "score": 100
+  },
+  {
     "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
     "url": "https://github.com/anthropics/defending-code-reference-harness",
-    "score": 138
-  },
-  {
-    "title": "VoidZero Is Joining Cloudflare",
-    "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-    "score": 530
-  },
-  {
-    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-    "score": 214
+    "score": 278
   }
 ]
