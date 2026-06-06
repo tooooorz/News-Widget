@@ -1,17 +1,17 @@
 [
   {
-    "title": "How LLMs work",
-    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "score": 460
+    "title": "Moving beyond fork() + exec()",
+    "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+    "score": 63
   },
   {
-    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "score": 711
+    "title": "Benchmarks in Leipzig",
+    "url": "https://arxiv.org/abs/2606.05818",
+    "score": 58
   },
   {
-    "title": "The intracies of modern camera lens repair (2024)",
-    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "score": 192
+    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+    "url": "https://twitter.com/lemire/status/2062880075117113739",
+    "score": 53
   }
 ]
