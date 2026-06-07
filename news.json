@@ -2,16 +2,16 @@
   {
     "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
     "url": "https://www.ioccc.org/2025/",
-    "score": 42
+    "score": 179
   },
   {
-    "title": "I design with Claude more than Figma now",
-    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-    "score": 62
+    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4\u00d7",
+    "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+    "score": 51
   },
   {
-    "title": "Valve P2P networking broken for more than 2 months",
-    "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-    "score": 108
+    "title": "Win16 Memory Management",
+    "url": "http://www.os2museum.com/wp/win16-memory-management/",
+    "score": 31
   }
 ]
