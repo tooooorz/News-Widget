@@ -1,17 +1,17 @@
 [
   {
-    "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-    "url": "https://www.ioccc.org/2025/",
-    "score": 179
+    "title": "LLMs are eroding my software engineering career and I don't know what to do",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "score": 89
   },
   {
-    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4\u00d7",
-    "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-    "score": 51
+    "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+    "url": "https://www.ioccc.org/2025/",
+    "score": 244
   },
   {
     "title": "Win16 Memory Management",
     "url": "http://www.os2museum.com/wp/win16-memory-management/",
-    "score": 31
+    "score": 67
   }
 ]
