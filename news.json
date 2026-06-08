@@ -1,17 +1,17 @@
 [
   {
-    "title": "Teenage Engineering: Introducing APC-2",
+    "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+    "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+    "score": 94
+  },
+  {
+    "title": "Dopamine Fracking",
+    "url": "https://igerman.cc/blog/dopamine-fracking/",
+    "score": 144
+  },
+  {
+    "title": "APC\u20132 \u2013 A professional record cutter for producing original playback discs",
     "url": "https://teenage.engineering/products/apc-2",
-    "score": 81
-  },
-  {
-    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "score": 54
-  },
-  {
-    "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-    "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-    "score": 61
+    "score": 187
   }
 ]
