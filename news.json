@@ -1,17 +1,17 @@
 [
   {
-    "title": "Apple WWDC 2026 Livestream",
-    "url": "https://www.apple.com/apple-events/event-stream/",
-    "score": 61
+    "title": "Stop the Apple Music app from launching",
+    "url": "https://lowtechguys.com/musicdecoy/",
+    "score": 404
   },
   {
-    "title": "Show HN: Performative-UI \u2013 a react component library of design tropes",
-    "url": "https://vorpus.github.io/performativeUI/",
-    "score": 394
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "score": 34
   },
   {
     "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
     "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-    "score": 240
+    "score": 386
   }
 ]
