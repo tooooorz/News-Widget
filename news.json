@@ -2,16 +2,16 @@
   {
     "title": "Claude Fable 5",
     "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-    "score": 1072
+    "score": 1504
   },
   {
-    "title": "Making Graphics Like it's 1993",
-    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-    "score": 612
+    "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+    "url": "https://aarushgupta.io/posts/kan-fpga/",
+    "score": 108
   },
   {
-    "title": "GPT-2: Too Dangerous To Release (2019)",
-    "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
-    "score": 19
+    "title": "Upcoming breaking changes for NPM v12",
+    "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+    "score": 43
   }
 ]
