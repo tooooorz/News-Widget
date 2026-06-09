@@ -1,17 +1,17 @@
 [
   {
-    "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
-    "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-    "score": 223
-  },
-  {
-    "title": "OpenAI Submits S-1 Draft to SEC",
-    "url": "https://openai.com/index/openai-submits-confidential-s-1/",
-    "score": 73
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "score": 339
   },
   {
     "title": "Siri AI",
     "url": "https://www.apple.com/apple-intelligence/",
-    "score": 284
+    "score": 417
+  },
+  {
+    "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
+    "url": "https://vorpus.github.io/performativeUI/",
+    "score": 792
   }
 ]
