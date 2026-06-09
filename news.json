@@ -2,16 +2,16 @@
   {
     "title": "Claude Fable 5",
     "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-    "score": 241
-  },
-  {
-    "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
-    "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
-    "score": 62
+    "score": 1072
   },
   {
     "title": "Making Graphics Like it's 1993",
     "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-    "score": 508
+    "score": 612
+  },
+  {
+    "title": "GPT-2: Too Dangerous To Release (2019)",
+    "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+    "score": 19
   }
 ]
