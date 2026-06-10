@@ -1,17 +1,17 @@
 [
   {
-    "title": "Building an HTML-first site doubled our users overnight",
-    "url": "https://mohkohn.co.uk/writing/html-first/",
-    "score": 716
+    "title": "Claude Desktop spins up a VM without no way of stopping it",
+    "url": "https://github.com/anthropics/claude-code/issues/29045",
+    "score": 201
   },
   {
-    "title": "Textbooks Should Be Free",
-    "url": "http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html",
-    "score": 49
+    "title": "Anthropic's Model Naming, Extrapolated",
+    "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+    "score": 73
   },
   {
-    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
-    "url": "",
-    "score": 231
+    "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+    "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+    "score": 86
   }
 ]
