@@ -1,17 +1,17 @@
 [
   {
-    "title": "Claude Desktop spins up a VM without no way of stopping it",
-    "url": "https://github.com/anthropics/claude-code/issues/29045",
-    "score": 201
+    "title": "\u03c0FS",
+    "url": "https://github.com/philipl/pifs",
+    "score": 347
   },
   {
-    "title": "Anthropic's Model Naming, Extrapolated",
-    "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-    "score": 73
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "score": 20
   },
   {
     "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
     "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-    "score": 86
+    "score": 143
   }
 ]
