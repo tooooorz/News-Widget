@@ -2,16 +2,16 @@
   {
     "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
     "url": "https://github.com/tamnd/kage",
-    "score": 85
+    "score": 277
   },
   {
-    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-    "score": 160
+    "title": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+    "url": "https://zinnia-os.org/",
+    "score": 30
   },
   {
-    "title": "Firewood Splitting Simulator",
-    "url": "https://screen.toys/firewood/",
-    "score": 411
+    "title": "Yserver: A modern X11 server written in Rust",
+    "url": "https://github.com/joske/yserver",
+    "score": 68
   }
 ]
