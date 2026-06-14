@@ -1,17 +1,17 @@
 [
   {
-    "title": "Honda Civics and the Evil Valet",
-    "url": "https://juniperspring.org/posts/honda-evil-valet/",
-    "score": 289
+    "title": "The Birth and Death of JavaScript (2014)",
+    "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+    "score": 39
+  },
+  {
+    "title": "Firewood Splitting Simulator",
+    "url": "https://screen.toys/firewood/",
+    "score": 51
   },
   {
     "title": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
     "url": "https://sqltoerdiagram.com/",
-    "score": 170
-  },
-  {
-    "title": "GLM 5.2 Is Out",
-    "url": "https://twitter.com/jietang/status/2065784751345287314",
-    "score": 616
+    "score": 252
   }
 ]
