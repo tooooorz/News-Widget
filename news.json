@@ -1,17 +1,17 @@
 [
   {
+    "title": "A backdoor in a LinkedIn job offer",
+    "url": "https://roman.pt/posts/linkedin-backdoor/",
+    "score": 430
+  },
+  {
+    "title": "US battery manufacturing output continues to break records",
+    "url": "https://fred.stlouisfed.org/series/IPG33591S",
+    "score": 98
+  },
+  {
     "title": "Iroh 1.0",
     "url": "https://www.iroh.computer/blog/v1",
-    "score": 584
-  },
-  {
-    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-    "url": "https://tinywind.io",
-    "score": 257
-  },
-  {
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-    "url": "",
-    "score": 209
+    "score": 844
   }
 ]
