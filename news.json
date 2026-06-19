@@ -1,17 +1,17 @@
 [
   {
+    "title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
+    "url": "https://aiclambake.com/clamtakes/linear-a/",
+    "score": 60
+  },
+  {
     "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
     "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-    "score": 241
+    "score": 420
   },
   {
-    "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-    "score": 235
-  },
-  {
-    "title": "To study how chips work, MIT researchers built their own operating system",
-    "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-    "score": 222
+    "title": "The Productivity J-Curve [pdf] (2018)",
+    "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
+    "score": 30
   }
 ]
