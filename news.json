@@ -1,17 +1,17 @@
 [
   {
-    "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
-    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "score": 154
-  },
-  {
     "title": "SMPTE Makes Its Standards Freely Accessible",
     "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-    "score": 83
+    "score": 171
   },
   {
     "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
     "url": "https://www.lispm.net/apps/uhf-x11/",
-    "score": 52
+    "score": 116
+  },
+  {
+    "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
+    "url": "https://clickhouse.com/blog/postgresbench",
+    "score": 45
   }
 ]
