@@ -1,17 +1,17 @@
 [
   {
-    "title": "A 3D voxel game engine written in APL",
-    "url": "https://github.com/namgyaaal/avoxelgame",
-    "score": 60
+    "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "url": "https://www.beyondallreason.info",
+    "score": 87
   },
   {
-    "title": "Google Hits 50% IPv6",
-    "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-    "score": 150
+    "title": "The case against geometric algebra (2024)",
+    "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+    "score": 58
   },
   {
-    "title": "Developers don't understand CORS (2019)",
-    "url": "https://fosterelli.co/developers-dont-understand-cors",
-    "score": 226
+    "title": "David Ahl's Basic Computer Games Ported to C",
+    "url": "https://github.com/proteanthread/bcg",
+    "score": 15
   }
 ]
