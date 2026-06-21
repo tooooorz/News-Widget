@@ -1,17 +1,17 @@
 [
   {
-    "title": "SMPTE Makes Its Standards Freely Accessible",
-    "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-    "score": 171
+    "title": "Renting a sewing machine from the library",
+    "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+    "score": 112
   },
   {
-    "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-    "url": "https://www.lispm.net/apps/uhf-x11/",
-    "score": 116
+    "title": "Epoll vs. io_uring in Linux",
+    "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "score": 62
   },
   {
-    "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-    "url": "https://clickhouse.com/blog/postgresbench",
-    "score": 45
+    "title": "Show HN: TownSquare, a tiny presence layer for websites",
+    "url": "https://townsquare.cauenapier.com/",
+    "score": 79
   }
 ]
