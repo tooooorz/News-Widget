@@ -2,16 +2,16 @@
   {
     "title": "Steam Machine launches today",
     "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-    "score": 981
+    "score": 1231
   },
   {
-    "title": "Unsloth GLM-5.2 \u2013 How to Run Locally",
+    "title": "Runing GLM-5.2 on local hardware",
     "url": "https://unsloth.ai/docs/models/glm-5.2",
-    "score": 31
+    "score": 182
   },
   {
-    "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
-    "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
-    "score": 71
+    "title": "In Praise of Memcached",
+    "url": "https://jchri.st/blog/in-praise-of-memcached/",
+    "score": 14
   }
 ]
