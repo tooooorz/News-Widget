@@ -1,17 +1,17 @@
 [
   {
-    "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+    "title": "John Carmack on the mistakes around Quake that ruined id software",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+    "score": 179
+  },
+  {
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "url": "https://rubyllm.com/",
+    "score": 163
+  },
+  {
+    "title": "We\u2019re making Bunny DNS free",
     "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-    "score": 439
-  },
-  {
-    "title": "Minimus container images are now free",
-    "url": "https://images.minimus.io/",
-    "score": 52
-  },
-  {
-    "title": "Krea 2 Technical Report",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "score": 73
+    "score": 626
   }
 ]
