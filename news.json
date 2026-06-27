@@ -2,16 +2,16 @@
   {
     "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
     "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-    "score": 475
-  },
-  {
-    "title": "Fintech Engineering Handbook",
-    "url": "https://w.pitula.me/fintech-engineering-handbook/",
-    "score": 130
+    "score": 598
   },
   {
     "title": "OpenRA",
     "url": "https://www.openra.net/",
-    "score": 27
+    "score": 219
+  },
+  {
+    "title": "Fintech Engineering Handbook",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "score": 270
   }
 ]
