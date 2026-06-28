@@ -1,17 +1,17 @@
 [
   {
-    "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-    "url": "https://ipcrawl.com/",
-    "score": 122
+    "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+    "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+    "score": 37
+  },
+  {
+    "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
+    "url": "https://decomp-academy.dev",
+    "score": 24
   },
   {
     "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
     "url": "https://github.com/bikini/exploitarium",
-    "score": 544
-  },
-  {
-    "title": "Show HN: Adrafinil \u2013 keep a lid-closed Mac awake only while agents work",
-    "url": "https://github.com/kageroumado/adrafinil",
-    "score": 29
+    "score": 683
   }
 ]
