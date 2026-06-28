@@ -1,17 +1,17 @@
 [
   {
+    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "url": "https://github.com/openai/codex/issues/2847",
+    "score": 17
+  },
+  {
     "title": "Marfa Public Radio Puts You to Sleep",
     "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-    "score": 249
+    "score": 299
   },
   {
-    "title": "Bashblog \u2013 a single bash script to create blogs",
-    "url": "https://github.com/cfenollosa/bashblog",
-    "score": 54
-  },
-  {
-    "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-    "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-    "score": 146
+    "title": "DLL that was not present in memory despite not being formally unloaded",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+    "score": 42
   }
 ]
