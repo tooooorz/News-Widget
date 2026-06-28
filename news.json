@@ -2,16 +2,16 @@
   {
     "title": "Marfa Public Radio Puts You to Sleep",
     "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-    "score": 151
+    "score": 249
   },
   {
-    "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-    "url": "https://github.com/itsthelore/wayfinder-router",
-    "score": 34
+    "title": "Bashblog \u2013 a single bash script to create blogs",
+    "url": "https://github.com/cfenollosa/bashblog",
+    "score": 54
   },
   {
     "title": "AMD Strix Halo RDMA Cluster Setup Guide",
     "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-    "score": 101
+    "score": 146
   }
 ]
