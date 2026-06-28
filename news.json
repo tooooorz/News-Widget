@@ -1,17 +1,17 @@
 [
   {
+    "title": "Marfa Public Radio Puts You to Sleep",
+    "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+    "score": 151
+  },
+  {
+    "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+    "url": "https://github.com/itsthelore/wayfinder-router",
+    "score": 34
+  },
+  {
     "title": "AMD Strix Halo RDMA Cluster Setup Guide",
     "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-    "score": 37
-  },
-  {
-    "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
-    "url": "https://decomp-academy.dev",
-    "score": 24
-  },
-  {
-    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-    "url": "https://github.com/bikini/exploitarium",
-    "score": 683
+    "score": 101
   }
 ]
