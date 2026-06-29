@@ -2,16 +2,16 @@
   {
     "title": "Qwen 3.6 27B is the sweet spot for local development",
     "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-    "score": 33
+    "score": 295
   },
   {
     "title": "Rocketlab acquires Iridium",
     "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-    "score": 180
+    "score": 260
   },
   {
-    "title": "A native graphical shell for SSH",
-    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-    "score": 54
+    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+    "url": "https://github.com/deepreinforce-ai/Ornith-1",
+    "score": 49
   }
 ]
