@@ -1,17 +1,17 @@
 [
   {
-    "title": "GLM 5.2 beats Claude in our benchmarks",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "score": 744
+    "title": "Sandia National Labs SA3000 8085 CPU",
+    "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+    "score": 58
   },
   {
     "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
     "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "score": 251
+    "score": 625
   },
   {
-    "title": "Dissecting Apple's Sparse Image Format (ASIF)",
-    "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
-    "score": 34
+    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "score": 931
   }
 ]
