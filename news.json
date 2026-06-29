@@ -1,17 +1,17 @@
 [
   {
-    "title": "Sandia National Labs SA3000 8085 CPU",
-    "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-    "score": 58
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "score": 33
   },
   {
-    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
-    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "score": 625
+    "title": "Rocketlab acquires Iridium",
+    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+    "score": 180
   },
   {
-    "title": "GLM 5.2 beats Claude in our benchmarks",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "score": 931
+    "title": "A native graphical shell for SSH",
+    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "score": 54
   }
 ]
