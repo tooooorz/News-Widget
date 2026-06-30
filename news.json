@@ -1,17 +1,17 @@
 [
   {
-    "title": "Claude Code Is Steganographically Marking Requests",
+    "title": "Claude Sonnet 5",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "score": 452
+  },
+  {
+    "title": "Claude Code is steganographically marking requests",
     "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-    "score": 332
+    "score": 843
   },
   {
-    "title": "The labor share of income in the US is at its lowest post-war level",
-    "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-    "score": 301
-  },
-  {
-    "title": "Looking Ahead to Postgres 19",
-    "url": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
-    "score": 126
+    "title": "Claude Science",
+    "url": "https://claude.com/product/claude-science",
+    "score": 176
   }
 ]
