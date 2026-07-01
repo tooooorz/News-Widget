@@ -1,17 +1,17 @@
 [
   {
+    "title": "The President Made More Than $1Billon in Crypto Deals",
+    "url": "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f",
+    "score": 66
+  },
+  {
     "title": "Claude Sonnet 5",
     "url": "https://www.anthropic.com/news/claude-sonnet-5",
-    "score": 726
+    "score": 889
   },
   {
     "title": "Claude Code is steganographically marking requests",
     "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-    "score": 1171
-  },
-  {
-    "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
-    "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-    "score": 34
+    "score": 1429
   }
 ]
