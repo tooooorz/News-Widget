@@ -1,17 +1,17 @@
 [
   {
+    "title": "Virginia bans sale of geolocation data",
+    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+    "score": 96
+  },
+  {
+    "title": "Exapunks (2018)",
+    "url": "https://www.zachtronics.com/exapunks/",
+    "score": 174
+  },
+  {
     "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
     "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-    "score": 266
-  },
-  {
-    "title": "Exapunks",
-    "url": "https://www.zachtronics.com/exapunks/",
-    "score": 24
-  },
-  {
-    "title": "PeerTube is a free, decentralized and federated video platform",
-    "url": "https://github.com/Chocobozzz/PeerTube",
-    "score": 292
+    "score": 347
   }
 ]
