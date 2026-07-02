@@ -1,17 +1,17 @@
 [
   {
-    "title": "A new Android malware from Google",
+    "title": "Vite+ Beta",
+    "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+    "score": 85
+  },
+  {
+    "title": "This blog is written in en-GB",
+    "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+    "score": 174
+  },
+  {
+    "title": "Android Developer Verification: Threat masquerading as Protection",
     "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-    "score": 710
-  },
-  {
-    "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-    "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-    "score": 187
-  },
-  {
-    "title": "The Fall of the Theorem Economy",
-    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-    "score": 74
+    "score": 955
   }
 ]
