@@ -1,17 +1,17 @@
 [
   {
-    "title": "Markets are competitive if and only if P = NP",
-    "url": "https://arxiv.org/abs/2602.20415",
-    "score": 56
-  },
-  {
-    "title": "Half-Baked Product",
-    "url": "https://weli.dev/blog/half-baked-product/",
-    "score": 870
-  },
-  {
     "title": "Jamesob's guide to running SOTA LLMs locally",
     "url": "https://github.com/jamesob/local-llm",
-    "score": 25
+    "score": 117
+  },
+  {
+    "title": "Factories are just rooms",
+    "url": "https://interconnected.org/home/2026/07/03/factories",
+    "score": 86
+  },
+  {
+    "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+    "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+    "score": 93
   }
 ]
