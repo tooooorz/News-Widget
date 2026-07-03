@@ -1,17 +1,17 @@
 [
   {
-    "title": "Please Stop the AI Confidence Theater",
-    "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-    "score": 44
+    "title": "Markets are competitive if and only if P = NP",
+    "url": "https://arxiv.org/abs/2602.20415",
+    "score": 56
   },
   {
     "title": "Half-Baked Product",
     "url": "https://weli.dev/blog/half-baked-product/",
-    "score": 532
+    "score": 870
   },
   {
-    "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
-    "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-    "score": 14
+    "title": "Jamesob's guide to running SOTA LLMs locally",
+    "url": "https://github.com/jamesob/local-llm",
+    "score": 25
   }
 ]
