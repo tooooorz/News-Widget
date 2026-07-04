@@ -1,17 +1,17 @@
 [
   {
-    "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-    "url": "https://github.com/anthropics/claude-code/issues/74066",
-    "score": 114
+    "title": "Leaking YouTube creators' private videos",
+    "url": "https://javoriuski.com/post/youtube",
+    "score": 211
   },
   {
-    "title": "Explanation of everything you can see in htop/top on Linux",
-    "url": "https://peteris.rocks/blog/htop/",
-    "score": 152
+    "title": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
+    "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+    "score": 113
   },
   {
-    "title": "What ORMs have taught me: just learn SQL (2014)",
-    "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-    "score": 31
+    "title": "No more than 100 000 faint satellites should orbit Earth",
+    "url": "https://www.eso.org/public/news/eso2607/",
+    "score": 58
   }
 ]
