@@ -1,17 +1,17 @@
 [
   {
-    "title": "The bottleneck might be the air in the room",
-    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "score": 444
+    "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+    "url": "https://github.com/anthropics/claude-code/issues/74066",
+    "score": 114
   },
   {
-    "title": "Astrophysicists Puzzle over Webb\u2019s New Universe",
-    "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-    "score": 59
+    "title": "Explanation of everything you can see in htop/top on Linux",
+    "url": "https://peteris.rocks/blog/htop/",
+    "score": 152
   },
   {
-    "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-    "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-    "score": 20
+    "title": "What ORMs have taught me: just learn SQL (2014)",
+    "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
+    "score": 31
   }
 ]
