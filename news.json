@@ -2,16 +2,16 @@
   {
     "title": "Shadcn/UI now defaults to Base UI instead of Radix",
     "url": "https://ui.shadcn.com/docs/changelog",
-    "score": 58
-  },
-  {
-    "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-    "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-    "score": 482
+    "score": 142
   },
   {
     "title": "If you're a button, you have one job",
     "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-    "score": 109
+    "score": 239
+  },
+  {
+    "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+    "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+    "score": 578
   }
 ]
