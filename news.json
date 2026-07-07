@@ -1,17 +1,17 @@
 [
   {
+    "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+    "url": "https://github.com/MaximeRivest/Riddle",
+    "score": 144
+  },
+  {
+    "title": "How to sequence your own DNA at home",
+    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+    "score": 53
+  },
+  {
     "title": "OpenWrt One \u2013 Open Hardware Router",
     "url": "https://openwrt.org/toh/openwrt/one",
-    "score": 283
-  },
-  {
-    "title": "CoMaps \u2013 FOSS Offline Maps",
-    "url": "https://www.comaps.app/",
-    "score": 186
-  },
-  {
-    "title": "Learning to code is still worthwhile",
-    "url": "https://stevekrouse.com/learn-to-code",
-    "score": 58
+    "score": 444
   }
 ]
