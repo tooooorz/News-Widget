@@ -1,17 +1,17 @@
 [
   {
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "score": 202
+  },
+  {
     "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
     "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-    "score": 94
+    "score": 208
   },
   {
     "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
     "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-    "score": 161
-  },
-  {
-    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-    "url": "https://kb.cert.org/vuls/id/213560",
-    "score": 178
+    "score": 206
   }
 ]
