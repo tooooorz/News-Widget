@@ -1,17 +1,17 @@
 [
   {
+    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+    "url": "https://mistral.ai/news/robostral-navigate/",
+    "score": 164
+  },
+  {
+    "title": "Chatto is now Open Source",
+    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+    "score": 90
+  },
+  {
     "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
     "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "score": 597
-  },
-  {
-    "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-    "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-    "score": 92
-  },
-  {
-    "title": "Tiny data centre used to heat public swimming pool",
-    "url": "https://www.bbc.com/news/technology-64939558",
-    "score": 15
+    "score": 944
   }
 ]
