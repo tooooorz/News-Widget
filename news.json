@@ -1,17 +1,17 @@
 [
   {
+    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+    "url": "https://www.gao.gov/products/gao-26-108193",
+    "score": 86
+  },
+  {
+    "title": "We charge $10k a week to delete AI-generated code",
+    "url": "https://odra.dev/slopfix/",
+    "score": 176
+  },
+  {
     "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
     "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-    "score": 152
-  },
-  {
-    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-    "url": "https://streetcomplete.app/",
-    "score": 624
-  },
-  {
-    "title": "Every new car sold in the European Union must include a driver monitoring camera",
-    "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-    "score": 226
+    "score": 291
   }
 ]
