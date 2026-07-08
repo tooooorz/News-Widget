@@ -1,17 +1,17 @@
 [
   {
-    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-    "url": "https://www.gao.gov/products/gao-26-108193",
-    "score": 86
+    "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+    "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+    "score": 75
   },
   {
-    "title": "We charge $10k a week to delete AI-generated code",
-    "url": "https://odra.dev/slopfix/",
-    "score": 176
+    "title": "Is The Economist Always Wrong?",
+    "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+    "score": 102
   },
   {
-    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-    "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-    "score": 291
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "url": "https://kb.cert.org/vuls/id/213560",
+    "score": 115
   }
 ]
