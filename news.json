@@ -1,17 +1,17 @@
 [
   {
-    "title": "GPT-5.6",
-    "url": "https://openai.com/index/gpt-5-6/",
-    "score": 871
-  },
-  {
     "title": "Show HN: Getting GLM 5.2 running on my slow computer",
     "url": "https://github.com/JustVugg/colibri",
-    "score": 136
+    "score": 383
   },
   {
     "title": "EU Parliament greenlights Chat Control 1.0",
     "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-    "score": 855
+    "score": 996
+  },
+  {
+    "title": "GPT-5.6",
+    "url": "https://openai.com/index/gpt-5-6/",
+    "score": 1069
   }
 ]
