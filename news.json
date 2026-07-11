@@ -2,16 +2,16 @@
   {
     "title": "Networking and the Internet, from First Principles",
     "url": "https://fazamhd.com/mental-models/networking/",
-    "score": 18
+    "score": 166
+  },
+  {
+    "title": "We scaled PgBouncer to 4x throughput",
+    "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+    "score": 10
   },
   {
     "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
     "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-    "score": 296
-  },
-  {
-    "title": "QuadRF can spot drones and see WiFi through my wall",
-    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-    "score": 627
+    "score": 326
   }
 ]
