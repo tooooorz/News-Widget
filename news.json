@@ -1,17 +1,17 @@
 [
   {
+    "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+    "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+    "score": 69
+  },
+  {
     "title": "Mesh LLM: distributed AI computing on iroh",
     "url": "https://www.iroh.computer/blog/mesh-llm",
-    "score": 86
+    "score": 175
   },
   {
     "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
     "url": "https://antjs.org",
-    "score": 177
-  },
-  {
-    "title": "A dock that wakes up reliably",
-    "url": "https://fabiensanglard.net/tb4/index.html",
-    "score": 14
+    "score": 223
   }
 ]
