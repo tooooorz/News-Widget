@@ -1,17 +1,17 @@
 [
   {
-    "title": "Old and new apps, via modern coding agents",
-    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-    "score": 335
+    "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+    "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+    "score": 44
   },
   {
-    "title": "Don't you mean extinct?",
-    "url": "https://fabiensanglard.net/extinct/index.html",
-    "score": 105
+    "title": "Tiny Emulators",
+    "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+    "score": 66
   },
   {
     "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
     "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "score": 9
+    "score": 303
   }
 ]
