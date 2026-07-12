@@ -1,17 +1,17 @@
 [
   {
-    "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
-    "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-    "score": 69
-  },
-  {
     "title": "Mesh LLM: distributed AI computing on iroh",
     "url": "https://www.iroh.computer/blog/mesh-llm",
-    "score": 175
+    "score": 215
+  },
+  {
+    "title": "The 'Father of the Internet' is finally retiring",
+    "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "score": 24
   },
   {
     "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
     "url": "https://antjs.org",
-    "score": 223
+    "score": 248
   }
 ]
