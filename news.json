@@ -1,17 +1,17 @@
 [
   {
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "score": 86
+  },
+  {
     "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
     "url": "https://antjs.org",
-    "score": 89
+    "score": 177
   },
   {
-    "title": "We scaled PgBouncer to 4x throughput",
-    "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-    "score": 147
-  },
-  {
-    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-    "score": 84
+    "title": "A dock that wakes up reliably",
+    "url": "https://fabiensanglard.net/tb4/index.html",
+    "score": 14
   }
 ]
