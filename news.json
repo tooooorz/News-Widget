@@ -1,17 +1,17 @@
 [
   {
-    "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-    "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-    "score": 209
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "score": 246
   },
   {
     "title": "The Tower Keeps Rising",
     "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-    "score": 120
+    "score": 256
   },
   {
-    "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-    "url": "https://prismml.com/news/bonsai-27b",
-    "score": 45
+    "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+    "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+    "score": 127
   }
 ]
