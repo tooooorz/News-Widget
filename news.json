@@ -1,17 +1,17 @@
 [
   {
-    "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
-    "url": "https://thinkingmachines.ai/inkling/",
-    "score": 52
+    "title": "Inkling: Our Open-Weights Model",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "score": 416
   },
   {
-    "title": "Codex Micro",
-    "url": "https://openai.com/supply/co-lab/work-louder/",
-    "score": 139
+    "title": "Grok Build",
+    "url": "https://github.com/xai-org/grok-build",
+    "score": 78
   },
   {
-    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-    "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-    "score": 130
+    "title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
+    "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+    "score": 264
   }
 ]
