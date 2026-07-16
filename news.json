@@ -1,17 +1,17 @@
 [
   {
-    "title": "Kimi K3 is now live",
-    "url": "https://www.kimi.com/en",
-    "score": 548
+    "title": "Kimi K3: Open Frontier Intelligence",
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "score": 871
+  },
+  {
+    "title": "LM Studio Bionic: the AI agent for open models",
+    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "score": 57
   },
   {
     "title": "Microsoft Comic Chat is now open source",
     "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-    "score": 231
-  },
-  {
-    "title": "Decoy Font",
-    "url": "https://www.mixfont.com/experiments/decoy-font",
-    "score": 137
+    "score": 427
   }
 ]
