@@ -2,16 +2,16 @@
   {
     "title": "Inkling: Our Open-Weights Model",
     "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "score": 416
+    "score": 674
   },
   {
-    "title": "Grok Build",
+    "title": "SQLite should have (Rust-style) editions",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "score": 108
+  },
+  {
+    "title": "Grok Build is open source",
     "url": "https://github.com/xai-org/grok-build",
-    "score": 78
-  },
-  {
-    "title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
-    "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-    "score": 264
+    "score": 252
   }
 ]
