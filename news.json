@@ -1,17 +1,17 @@
 [
   {
-    "title": "Goodbye, and Thanks for All the Bikesheds",
-    "url": "https://queue.acm.org/detail.cfm?id=3818307",
-    "score": 62
+    "title": "Speech Recognition and TTS in less than 500kb",
+    "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+    "score": 75
   },
   {
     "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
     "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "score": 350
+    "score": 455
   },
   {
-    "title": "Gleam Is Now on Tangled",
-    "url": "https://tangled.org/gleam.run/gleam",
-    "score": 109
+    "title": "Typing Speed Test, but for Developers",
+    "url": "https://haxxorwpm.0s.is/",
+    "score": 45
   }
 ]
