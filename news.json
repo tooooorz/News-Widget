@@ -1,17 +1,17 @@
 [
   {
-    "title": "Qwen 3.8",
-    "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-    "score": 601
-  },
-  {
     "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
     "url": "",
-    "score": 205
+    "score": 878
   },
   {
-    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "score": 315
+    "title": "Qwen 3.8",
+    "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+    "score": 695
+  },
+  {
+    "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+    "score": 10
   }
 ]
