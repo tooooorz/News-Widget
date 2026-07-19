@@ -1,17 +1,17 @@
 [
   {
+    "title": "Transcribe.cpp",
+    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "score": 32
+  },
+  {
     "title": "Speech Recognition and TTS in less than 500kb",
     "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-    "score": 75
+    "score": 272
   },
   {
-    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "score": 455
-  },
-  {
-    "title": "Typing Speed Test, but for Developers",
-    "url": "https://haxxorwpm.0s.is/",
-    "score": 45
+    "title": "Better and Cheaper Than IPTV",
+    "url": "https://github.com/stupside/castor",
+    "score": 11
   }
 ]
