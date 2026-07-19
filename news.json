@@ -1,17 +1,17 @@
 [
   {
+    "title": "Qwen3.8 is launching and going open-weight soon",
+    "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+    "score": 155
+  },
+  {
     "title": "Transcribe.cpp",
     "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "score": 424
+    "score": 541
   },
   {
-    "title": "Searchable field-level encryption on Supabase with CipherStash",
-    "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-    "score": 31
-  },
-  {
-    "title": "Speech Recognition and TTS in less than 500kb",
-    "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-    "score": 419
+    "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+    "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+    "score": 22
   }
 ]
