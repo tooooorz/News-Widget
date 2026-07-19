@@ -2,16 +2,16 @@
   {
     "title": "Transcribe.cpp",
     "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "score": 292
+    "score": 424
+  },
+  {
+    "title": "Searchable field-level encryption on Supabase with CipherStash",
+    "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
+    "score": 31
   },
   {
     "title": "Speech Recognition and TTS in less than 500kb",
     "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-    "score": 372
-  },
-  {
-    "title": "FDA approves new kind of cholesterol pill",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
-    "score": 46
+    "score": 419
   }
 ]
