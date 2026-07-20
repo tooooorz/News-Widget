@@ -1,17 +1,17 @@
 [
   {
+    "title": "Airport Simulator",
+    "url": "https://airport.apunen.com/",
+    "score": 192
+  },
+  {
+    "title": "Stop Using OpenCode",
+    "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+    "score": 85
+  },
+  {
     "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
     "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-    "score": 16
-  },
-  {
-    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-    "url": "",
-    "score": 2269
-  },
-  {
-    "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-    "url": "https://github.com/hgaiser/moonshine",
-    "score": 169
+    "score": 254
   }
 ]
