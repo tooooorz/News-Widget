@@ -1,17 +1,17 @@
 [
   {
+    "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+    "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+    "score": 16
+  },
+  {
     "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
     "url": "",
-    "score": 1962
+    "score": 2269
   },
   {
     "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
     "url": "https://github.com/hgaiser/moonshine",
-    "score": 73
-  },
-  {
-    "title": "Claude Code uses Bun written in Rust now",
-    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "score": 460
+    "score": 169
   }
 ]
