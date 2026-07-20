@@ -1,17 +1,17 @@
 [
   {
-    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
-    "url": "https://nothings.org/gamedev/ssao/",
-    "score": 66
-  },
-  {
-    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-    "score": 74
+    "title": "China's open-weights AI strategy is winning",
+    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "score": 534
   },
   {
     "title": "Hacker wipes Romania's land registry database",
     "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-    "score": 274
+    "score": 446
+  },
+  {
+    "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+    "url": "https://hypr.land/news/update55/",
+    "score": 63
   }
 ]
