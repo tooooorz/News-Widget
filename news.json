@@ -1,17 +1,17 @@
 [
   {
+    "title": "Jane Street: Incremental",
+    "url": "https://github.com/janestreet/incremental",
+    "score": 69
+  },
+  {
     "title": "Who's afraid of Chinese models?",
     "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-    "score": 249
+    "score": 477
   },
   {
-    "title": "Kimi Work",
-    "url": "https://www.kimi.com/products/kimi-work",
-    "score": 398
-  },
-  {
-    "title": "Human mathematicians are being outcounterexampled",
-    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-    "score": 208
+    "title": "Running Doom on Our Custom CPU and Going Viral",
+    "url": "https://www.armaangomes.com/blogs/doom/",
+    "score": 21
   }
 ]
