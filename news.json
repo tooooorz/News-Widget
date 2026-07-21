@@ -1,17 +1,17 @@
 [
   {
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "score": 120
+  },
+  {
     "title": "Incremental \u2013 A library for incremental computations",
     "url": "https://github.com/janestreet/incremental",
-    "score": 147
+    "score": 219
   },
   {
     "title": "Who's afraid of Chinese models?",
     "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-    "score": 586
-  },
-  {
-    "title": "Running Doom on Our Custom CPU and Going Viral",
-    "url": "https://www.armaangomes.com/blogs/doom/",
-    "score": 53
+    "score": 678
   }
 ]
