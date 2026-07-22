@@ -1,17 +1,17 @@
 [
   {
-    "title": "Does creatine make you smarter?",
-    "url": "https://dynomight.net/creatine/",
-    "score": 59
+    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "score": 198
+  },
+  {
+    "title": "GigaToken: ~1000x faster Language model tokenization",
+    "url": "https://github.com/marcelroed/gigatoken/",
+    "score": 111
   },
   {
     "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
     "url": "https://bento.page/slides/",
-    "score": 43
-  },
-  {
-    "title": "OpenAI Presence",
-    "url": "https://openai.com/index/introducing-openai-presence/",
-    "score": 31
+    "score": 416
   }
 ]
