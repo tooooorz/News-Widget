@@ -1,17 +1,17 @@
 [
   {
+    "title": "John C. Dvorak has died",
+    "url": "https://twitter.com/na_announce/status/2079952538040672302",
+    "score": 323
+  },
+  {
+    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+    "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+    "score": 139
+  },
+  {
     "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
     "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-    "score": 198
-  },
-  {
-    "title": "GigaToken: ~1000x faster Language model tokenization",
-    "url": "https://github.com/marcelroed/gigatoken/",
-    "score": 111
-  },
-  {
-    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-    "url": "https://bento.page/slides/",
-    "score": 416
+    "score": 449
   }
 ]
