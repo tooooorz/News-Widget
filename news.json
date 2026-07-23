@@ -1,17 +1,17 @@
 [
   {
+    "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+    "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+    "score": 24
+  },
+  {
     "title": "git's \u2013end-of-options Flag",
     "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-    "score": 62
+    "score": 120
   },
   {
     "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
     "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-    "score": 734
-  },
-  {
-    "title": "Quality non-fiction books are the antithesis of AI slop",
-    "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-    "score": 259
+    "score": 826
   }
 ]
