@@ -1,17 +1,17 @@
 [
   {
+    "title": "Flux 3",
+    "url": "https://bfl.ai/blog/flux-3",
+    "score": 144
+  },
+  {
+    "title": "The PImpl idiom and the C++26 std:indirect type",
+    "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+    "score": 22
+  },
+  {
     "title": "Writing by hand is good for your brain",
     "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-    "score": 1139
-  },
-  {
-    "title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
-    "url": "",
-    "score": 303
-  },
-  {
-    "title": "The Beam Engine",
-    "url": "https://glinscott.github.io/beam-engine/",
-    "score": 245
+    "score": 1254
   }
 ]
