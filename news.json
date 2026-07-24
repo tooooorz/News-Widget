@@ -2,16 +2,16 @@
   {
     "title": "Claude Opus 5",
     "url": "https://www.anthropic.com/news/claude-opus-5",
-    "score": 709
+    "score": 1081
   },
   {
     "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
     "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "score": 149
+    "score": 397
   },
   {
-    "title": "I got into YC by hacking it",
-    "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-    "score": 44
+    "title": "Postgres LISTEN/NOTIFY actually scales",
+    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+    "score": 119
   }
 ]
