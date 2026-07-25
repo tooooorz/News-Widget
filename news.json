@@ -2,16 +2,16 @@
   {
     "title": "Claude Opus 5",
     "url": "https://www.anthropic.com/news/claude-opus-5",
-    "score": 1081
-  },
-  {
-    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "score": 397
+    "score": 1300
   },
   {
     "title": "Postgres LISTEN/NOTIFY actually scales",
     "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "score": 119
+    "score": 200
+  },
+  {
+    "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+    "url": "https://artificialanalysis.ai/models",
+    "score": 139
   }
 ]
