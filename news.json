@@ -1,17 +1,17 @@
 [
   {
+    "title": "ARC-AGI Leaderboard",
+    "url": "https://arcprize.org/leaderboard",
+    "score": 44
+  },
+  {
+    "title": "Android May Soon Restrict On-Device ADB",
+    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "score": 21
+  },
+  {
     "title": "Claude Opus 5",
     "url": "https://www.anthropic.com/news/claude-opus-5",
-    "score": 1417
-  },
-  {
-    "title": "GC and Exceptions in Wasmtime",
-    "url": "https://bytecodealliance.org/articles/wasmtime-gc",
-    "score": 25
-  },
-  {
-    "title": "Postgres LISTEN/NOTIFY actually scales",
-    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "score": 256
+    "score": 1503
   }
 ]
