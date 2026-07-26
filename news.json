@@ -1,17 +1,17 @@
 [
   {
+    "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
+    "url": "https://astral.sh/blog/ruff-v0.16.0",
+    "score": 46
+  },
+  {
     "title": "A shell colon does nothing. Use it anyway",
     "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "score": 113
+    "score": 208
   },
   {
-    "title": "An ESP32 based plane radar for my desk",
-    "url": "https://blog.ktz.me/esp32-plane-radar/",
-    "score": 116
-  },
-  {
-    "title": "The new rules of context engineering for Claude 5 generation models",
-    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "score": 300
+    "title": "GrapheneOS protections against data extraction from locked devices",
+    "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+    "score": 83
   }
 ]
