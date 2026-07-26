@@ -1,17 +1,17 @@
 [
   {
+    "title": "A shell colon does nothing. Use it anyway",
+    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+    "score": 113
+  },
+  {
     "title": "An ESP32 based plane radar for my desk",
     "url": "https://blog.ktz.me/esp32-plane-radar/",
-    "score": 68
+    "score": 116
   },
   {
-    "title": "JetZero",
-    "url": "https://www.jetzero.aero",
-    "score": 128
-  },
-  {
-    "title": "Show HN: I mapped every US golf course",
-    "url": "https://golfcoursebrowser.com/",
-    "score": 90
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "score": 300
   }
 ]
