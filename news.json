@@ -1,17 +1,17 @@
 [
   {
-    "title": "MAI-Cyber 1",
-    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-    "score": 155
-  },
-  {
     "title": "Watching Go's new garbage collector move through the heap",
     "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-    "score": 32
+    "score": 120
   },
   {
-    "title": "Kimi-K3 on HuggingFace",
-    "url": "https://huggingface.co/moonshotai/Kimi-K3",
-    "score": 1128
+    "title": "Launch HN: Rise Reforming (YC S26) \u2013 Turning Waste Gases into Valuable Chemicals",
+    "url": "https://www.rise-reforming.com",
+    "score": 40
+  },
+  {
+    "title": "Self-contained highly-portable Python distributions",
+    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+    "score": 70
   }
 ]
