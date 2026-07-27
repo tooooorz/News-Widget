@@ -1,17 +1,17 @@
 [
   {
+    "title": "Kimi-K3 Technical Report [pdf]",
+    "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+    "score": 237
+  },
+  {
     "title": "Kimi-K3 Releases on HuggingFace 7/27",
     "url": "https://huggingface.co/moonshotai/Kimi-K3",
-    "score": 480
+    "score": 941
   },
   {
-    "title": "How is the Bun Rewrite in Rust going?",
-    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-    "score": 53
-  },
-  {
-    "title": "The Birth of the American 12-string Guitar",
-    "url": "https://www.harpguitars.net/history/grunewald/12-string.htm",
-    "score": 20
+    "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+    "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+    "score": 43
   }
 ]
