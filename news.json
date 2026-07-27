@@ -1,17 +1,17 @@
 [
   {
-    "title": "Kimi-K3 Technical Report [pdf]",
-    "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
-    "score": 237
+    "title": "MAI-Cyber 1",
+    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+    "score": 155
   },
   {
-    "title": "Kimi-K3 Releases on HuggingFace 7/27",
+    "title": "Watching Go's new garbage collector move through the heap",
+    "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+    "score": 32
+  },
+  {
+    "title": "Kimi-K3 on HuggingFace",
     "url": "https://huggingface.co/moonshotai/Kimi-K3",
-    "score": 941
-  },
-  {
-    "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-    "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-    "score": 43
+    "score": 1128
   }
 ]
