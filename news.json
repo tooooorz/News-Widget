@@ -1,17 +1,17 @@
 [
   {
-    "title": "7.1 Earthquake in Japan",
-    "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-    "score": 658
-  },
-  {
-    "title": "How Do I Profile eBPF Code?",
-    "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-    "score": 20
-  },
-  {
     "title": "You Could Have Come Up with Kimi Delta Attention",
     "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-    "score": 12
+    "score": 235
+  },
+  {
+    "title": "Deflock Casa Grande",
+    "url": "https://deflockcg.com/",
+    "score": 30
+  },
+  {
+    "title": "Steel Bank Common Lisp version 2.6.7",
+    "url": "https://sbcl.org/all-news.html?2.6.7",
+    "score": 81
   }
 ]
