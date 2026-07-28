@@ -1,17 +1,17 @@
 [
   {
-    "title": "Watching Go's new garbage collector move through the heap",
-    "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-    "score": 120
+    "title": "Our position on open-weights models",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "score": 441
   },
   {
-    "title": "Launch HN: Rise Reforming (YC S26) \u2013 Turning Waste Gases into Valuable Chemicals",
-    "url": "https://www.rise-reforming.com",
-    "score": 40
+    "title": "Benchmarking Opus 5 on SlopCodeBench",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "score": 112
   },
   {
-    "title": "Self-contained highly-portable Python distributions",
-    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-    "score": 70
+    "title": "DConf 2026 in London",
+    "url": "https://dconf.org/2026/index.html",
+    "score": 43
   }
 ]
