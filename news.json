@@ -2,16 +2,16 @@
   {
     "title": "Our position on open-weights models",
     "url": "https://www.anthropic.com/news/position-open-weights-models",
-    "score": 441
+    "score": 674
   },
   {
-    "title": "Benchmarking Opus 5 on SlopCodeBench",
-    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-    "score": 112
+    "title": "Using an open model feels surprisingly good",
+    "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+    "score": 155
   },
   {
-    "title": "DConf 2026 in London",
-    "url": "https://dconf.org/2026/index.html",
-    "score": 43
+    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "score": 90
   }
 ]
