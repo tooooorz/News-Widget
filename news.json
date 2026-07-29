@@ -1,17 +1,17 @@
 [
   {
+    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "url": "https://github.com/drumih/turbo-fieldfare",
+    "score": 122
+  },
+  {
     "title": "KOReader",
     "url": "https://koreader.rocks/",
-    "score": 219
+    "score": 456
   },
   {
     "title": "Handbook.md shows that long policy documents do not reliably govern agents",
     "url": "https://arxiv.org/abs/2607.25398",
-    "score": 28
-  },
-  {
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "score": 125
+    "score": 165
   }
 ]
