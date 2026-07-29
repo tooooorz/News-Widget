@@ -1,17 +1,17 @@
 [
   {
+    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "score": 37
+  },
+  {
+    "title": "User Interfaces of the Demo Scene",
+    "url": "https://www.datagubbe.se/scenegui/",
+    "score": 23
+  },
+  {
     "title": "Codex Security",
     "url": "https://github.com/openai/codex-security",
-    "score": 340
-  },
-  {
-    "title": "Half-Life ported to Mac OS 9",
-    "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-    "score": 140
-  },
-  {
-    "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-    "url": "https://github.com/twalichiewicz/HNewhere",
-    "score": 117
+    "score": 438
   }
 ]
