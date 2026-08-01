@@ -1,17 +1,17 @@
 [
   {
-    "title": "AI doesn't generate working products, that's still your job",
-    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-    "score": 66
+    "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+    "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+    "score": 23
   },
   {
-    "title": "RamenHaus",
-    "url": "https://ramen.haus/",
-    "score": 77
+    "title": "Show HN: Free AI Prompt Gen \u2013 A local-first, open-source prompt engineering tool",
+    "url": "https://freeaipromptgen.com/",
+    "score": 9
   },
   {
     "title": "Elevators",
     "url": "https://john.fun/elevators",
-    "score": 1308
+    "score": 1384
   }
 ]
