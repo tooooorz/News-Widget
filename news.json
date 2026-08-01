@@ -1,17 +1,17 @@
 [
   {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "score": 21
+  },
+  {
     "title": "Elevators",
     "url": "https://john.fun/elevators",
-    "score": 1093
+    "score": 1228
   },
   {
     "title": "Flint: A Visualization Language for the AI Era",
     "url": "https://microsoft.github.io/flint-chart/",
-    "score": 49
-  },
-  {
-    "title": "How to Exist",
-    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "score": 103
+    "score": 95
   }
 ]
