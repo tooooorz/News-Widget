@@ -1,17 +1,17 @@
 [
   {
-    "title": "Twenty Years of RISC OS Open",
-    "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-    "score": 75
+    "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+    "url": "https://github.com/wie-project/kakehashi",
+    "score": 69
   },
   {
-    "title": "F*: A general-purpose proof-oriented programming language",
-    "url": "https://fstar-lang.org/",
-    "score": 56
+    "title": "Developers are attached to tools because tools encode trust",
+    "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+    "score": 33
   },
   {
-    "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
-    "url": "https://meshdiff.com/",
-    "score": 112
+    "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
+    "url": "https://github.com/graham33/nixos-dgx-spark",
+    "score": 34
   }
 ]
