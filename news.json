@@ -1,17 +1,17 @@
 [
   {
+    "title": "Karpathy\u2019s Pelican",
+    "url": "https://twitter.com/karpathy/status/2083749667410727319",
+    "score": 305
+  },
+  {
     "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
     "url": "https://github.com/wie-project/kakehashi",
-    "score": 69
+    "score": 128
   },
   {
-    "title": "Developers are attached to tools because tools encode trust",
-    "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
-    "score": 33
-  },
-  {
-    "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
-    "url": "https://github.com/graham33/nixos-dgx-spark",
-    "score": 34
+    "title": "Note-Taking and Personal Knowledge Management",
+    "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+    "score": 58
   }
 ]
