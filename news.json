@@ -1,17 +1,17 @@
 [
   {
+    "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
+    "url": "https://github.com/syncular/syncular",
+    "score": 7
+  },
+  {
     "title": "Go 1.27 Interactive Tour",
     "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-    "score": 182
+    "score": 220
   },
   {
     "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
     "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-    "score": 121
-  },
-  {
-    "title": "Seedance 2.5",
-    "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-    "score": 311
+    "score": 171
   }
 ]
