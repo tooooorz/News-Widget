@@ -1,17 +1,17 @@
 [
   {
-    "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-    "url": "https://website-auditor.io/ai-visibility-index",
-    "score": 24
+    "title": "Twenty Years of RISC OS Open",
+    "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+    "score": 75
+  },
+  {
+    "title": "F*: A general-purpose proof-oriented programming language",
+    "url": "https://fstar-lang.org/",
+    "score": 56
   },
   {
     "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
     "url": "https://meshdiff.com/",
-    "score": 49
-  },
-  {
-    "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
-    "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-    "score": 64
+    "score": 112
   }
 ]
