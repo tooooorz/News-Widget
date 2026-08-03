@@ -1,17 +1,17 @@
 [
   {
-    "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-    "score": 595
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "score": 160
   },
   {
     "title": "Devtools must be open source",
     "url": "https://blog.exe.dev/devtools-must-be-open-source",
-    "score": 170
+    "score": 331
   },
   {
-    "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
-    "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
-    "score": 162
+    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+    "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+    "score": 64
   }
 ]
