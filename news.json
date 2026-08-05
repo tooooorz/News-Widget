@@ -1,17 +1,17 @@
 [
   {
-    "title": "Qwen 3.0 Image Pro",
-    "url": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
-    "score": 52
+    "title": "Discovery Loop",
+    "url": "https://www.discoveryloop.com/",
+    "score": 305
   },
   {
-    "title": "Cloudflare OS: an open platform for agents, apps, and work",
-    "url": "https://blog.cloudflare.com/cloudflare-os/",
-    "score": 253
+    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "score": 27
   },
   {
-    "title": "Aristotle quotes on virtue, knowledge, and happiness",
-    "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-    "score": 77
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "score": 156
   }
 ]
