@@ -1,17 +1,17 @@
 [
   {
+    "title": "Zed DeltaDB",
+    "url": "https://zed.dev/deltadb",
+    "score": 210
+  },
+  {
     "title": "Discovery Loop",
     "url": "https://www.discoveryloop.com/",
-    "score": 305
+    "score": 465
   },
   {
-    "title": "Born Against, or why hobby programming communities are against LLM usage",
-    "url": "https://blog.fogus.me/llm/born-against.html",
-    "score": 27
-  },
-  {
-    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-    "score": 156
+    "title": "I'm switching my phone from Android to Linux",
+    "url": "https://runarcn.no/android-to-linux/",
+    "score": 83
   }
 ]
