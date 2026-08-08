@@ -1,17 +1,17 @@
 [
   {
+    "title": "Fastmail offers EU data region",
+    "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+    "score": 96
+  },
+  {
     "title": "A domain can now say it is for sale, in DNS",
     "url": "https://specification.website/spec/foundations/for-sale-dns/",
-    "score": 74
+    "score": 216
   },
   {
-    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "score": 195
-  },
-  {
-    "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-    "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-    "score": 25
+    "title": "LinkedIn Feed Blocker",
+    "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+    "score": 41
   }
 ]
