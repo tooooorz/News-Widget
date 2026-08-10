@@ -2,16 +2,16 @@
   {
     "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
     "url": "https://www.docker.com/products/docker-sandboxes/",
-    "score": 61
+    "score": 206
   },
   {
     "title": "What Happened to HackerOne?",
     "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-    "score": 165
+    "score": 236
   },
   {
-    "title": "Auto mode is now the default in Claude Code",
-    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "score": 151
+    "title": "Tail-Call Interpreters in Rust \u2013 Jimmy Ostler",
+    "url": "https://lordgoati.us/blog/tail-call/",
+    "score": 15
   }
 ]
