@@ -1,17 +1,17 @@
 [
   {
+    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "score": 61
+  },
+  {
     "title": "What Happened to HackerOne?",
     "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-    "score": 90
+    "score": 165
   },
   {
-    "title": "How I use LLMs to learn complex topics",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "score": 498
-  },
-  {
-    "title": "Turn satellite imagery into a paper globe you fold yourself",
-    "url": "https://foldingglobes.com/",
-    "score": 19
+    "title": "Auto mode is now the default in Claude Code",
+    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "score": 151
   }
 ]
