@@ -1,17 +1,17 @@
 [
   {
+    "title": "What Happened to HackerOne?",
+    "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+    "score": 90
+  },
+  {
     "title": "How I use LLMs to learn complex topics",
     "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "score": 377
+    "score": 498
   },
   {
-    "title": "New Zealand lost its music media, and what we're building to replace it",
-    "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-    "score": 66
-  },
-  {
-    "title": "\"The Persian M\u00e2R-N\u00e2meh Or, the Book for Taking Omens from Snakes\" (1892)",
-    "url": "https://publicdomainreview.org/collection/marnameh/",
-    "score": 20
+    "title": "Turn satellite imagery into a paper globe you fold yourself",
+    "url": "https://foldingglobes.com/",
+    "score": 19
   }
 ]
