@@ -1,17 +1,17 @@
 [
   {
-    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-    "url": "https://www.docker.com/products/docker-sandboxes/",
-    "score": 206
+    "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "score": 262
   },
   {
-    "title": "What Happened to HackerOne?",
-    "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-    "score": 236
+    "title": "Because It's Not Fun Enough: why languages fail",
+    "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+    "score": 33
   },
   {
-    "title": "Tail-Call Interpreters in Rust \u2013 Jimmy Ostler",
-    "url": "https://lordgoati.us/blog/tail-call/",
-    "score": 15
+    "title": "Tail-call optimization in C is relatively recent",
+    "url": "https://lwn.net/Articles/1034703/",
+    "score": 24
   }
 ]
