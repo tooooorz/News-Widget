@@ -1,17 +1,17 @@
 [
   {
-    "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
     "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "score": 600
+    "score": 802
   },
   {
-    "title": "Mars Bar from 1991 found \u2013 and it's 20g bigger than today's",
-    "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-    "score": 27
+    "title": "Sonic Pi v5",
+    "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+    "score": 127
   },
   {
-    "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-    "score": 45
+    "title": "Learning more about Claude's mathematical capabilities",
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "score": 54
   }
 ]
