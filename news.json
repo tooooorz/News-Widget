@@ -1,17 +1,17 @@
 [
   {
+    "title": "DeepSeek V4 Pro 0813",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "score": 364
+  },
+  {
     "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
     "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "score": 125
+    "score": 483
   },
   {
-    "title": "2026 Eclipse Webcams",
-    "url": "https://jonty.github.io/2026_eclipse_webcams/",
-    "score": 328
-  },
-  {
-    "title": "Tim King, AmigaDOS developer, has died",
-    "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-    "score": 72
+    "title": "Zed: Delta",
+    "url": "https://zed.dev/blog/introducing-delta",
+    "score": 24
   }
 ]
