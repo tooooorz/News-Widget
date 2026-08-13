@@ -1,17 +1,17 @@
 [
   {
+    "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+    "url": "https://openai.com/codex/",
+    "score": 129
+  },
+  {
     "title": "DeepSeek V4 Pro 0813",
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-    "score": 871
+    "score": 928
   },
   {
-    "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+    "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
     "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "score": 971
-  },
-  {
-    "title": "Mushroom behind 'tiny people' hallucinations identified",
-    "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-    "score": 68
+    "score": 1044
   }
 ]
