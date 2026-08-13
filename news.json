@@ -2,16 +2,16 @@
   {
     "title": "DeepSeek V4 Pro 0813",
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-    "score": 595
+    "score": 721
   },
   {
     "title": "Delta",
     "url": "https://zed.dev/blog/introducing-delta",
-    "score": 236
+    "score": 376
   },
   {
     "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
     "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "score": 658
+    "score": 783
   }
 ]
