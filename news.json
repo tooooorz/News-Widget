@@ -2,16 +2,16 @@
   {
     "title": "Qwen 3.8 27B",
     "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-    "score": 412
-  },
-  {
-    "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-    "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-    "score": 178
+    "score": 683
   },
   {
     "title": "Seven books I keep close because I love them",
     "url": "https://blog.plover.com/2026/08/02/",
-    "score": 176
+    "score": 247
+  },
+  {
+    "title": "RustDesk now supports true unattended remote access on Wayland",
+    "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "score": 159
   }
 ]
