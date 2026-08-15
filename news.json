@@ -2,16 +2,16 @@
   {
     "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
     "url": "https://sankalp.bearblog.dev/autoresearch/",
-    "score": 22
+    "score": 168
   },
   {
-    "title": "The other Sean Byrne doesn't exist",
-    "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-    "score": 234
+    "title": "Writergate: Zig I/O Interface Overhaul",
+    "url": "https://alexrios.me/blog/writergate/",
+    "score": 18
   },
   {
-    "title": "Qwen 3.8 27B",
-    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-    "score": 1195
+    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+    "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+    "score": 27
   }
 ]
