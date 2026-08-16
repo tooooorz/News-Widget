@@ -2,16 +2,16 @@
   {
     "title": "Asus Bike Booster",
     "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-    "score": 154
+    "score": 275
+  },
+  {
+    "title": "The quirky personal homepages of programming language creators",
+    "url": "https://breck.lol/plMakers.html",
+    "score": 51
   },
   {
     "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
     "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-    "score": 46
-  },
-  {
-    "title": "Semaglutide linked to lower predicted dementia risk",
-    "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-    "score": 369
+    "score": 106
   }
 ]
