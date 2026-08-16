@@ -1,17 +1,17 @@
 [
   {
+    "title": "The Case Against Formal Verification, 50 Years Later",
+    "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+    "score": 17
+  },
+  {
+    "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+    "url": "https://rvembedded.com/blog_post/12/",
+    "score": 221
+  },
+  {
     "title": "Claude: System Prompts",
     "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "score": 344
-  },
-  {
-    "title": "The AI Credit Resale Economy",
-    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-    "score": 135
-  },
-  {
-    "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-    "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-    "score": 79
+    "score": 435
   }
 ]
