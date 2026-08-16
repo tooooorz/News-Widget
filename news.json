@@ -2,16 +2,16 @@
   {
     "title": "Asus Bike Booster",
     "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-    "score": 368
+    "score": 465
   },
   {
-    "title": "What happens when an LLM never sees material beyond fifth grade?",
-    "url": "https://littlelearner-ll.github.io/",
-    "score": 87
+    "title": "Superconducting monolayer cuprate with a single CuO2 plane",
+    "url": "https://www.nature.com/articles/s41586-026-10857-1",
+    "score": 24
   },
   {
-    "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-    "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-    "score": 147
+    "title": "Patterns and problems in emerging multi-agent systems",
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "score": 120
   }
 ]
