@@ -1,17 +1,17 @@
 [
   {
+    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "score": 131
+  },
+  {
+    "title": "The Life and Death of Direct File [pdf]",
+    "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+    "score": 108
+  },
+  {
     "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
     "url": "https://rvembedded.com/blog_post/12/",
-    "score": 348
-  },
-  {
-    "title": "Claude: System Prompts",
-    "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "score": 522
-  },
-  {
-    "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-    "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-    "score": 64
+    "score": 401
   }
 ]
