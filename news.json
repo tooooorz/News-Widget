@@ -1,17 +1,17 @@
 [
   {
-    "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
-    "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-    "score": 88
-  },
-  {
     "title": "A Preview of DuckDB v2.0",
     "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-    "score": 93
+    "score": 333
   },
   {
-    "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+    "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
     "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-    "score": 34
+    "score": 188
+  },
+  {
+    "title": "Incident with Github.com",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "score": 255
   }
 ]
