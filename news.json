@@ -1,17 +1,17 @@
 [
   {
+    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+    "url": "https://arxiv.org/abs/2608.13759",
+    "score": 89
+  },
+  {
+    "title": "India has paved the way for charging merchants a fee on UPI transactions",
+    "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+    "score": 53
+  },
+  {
     "title": "A Preview of DuckDB v2.0",
     "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-    "score": 333
-  },
-  {
-    "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
-    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-    "score": 188
-  },
-  {
-    "title": "Incident with Github.com",
-    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-    "score": 255
+    "score": 462
   }
 ]
