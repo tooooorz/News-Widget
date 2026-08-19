@@ -1,17 +1,17 @@
 [
   {
-    "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
-    "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-    "score": 232
-  },
-  {
     "title": "Meta's blockbuster trial draws parallels to big tobacco",
     "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-    "score": 41
+    "score": 175
   },
   {
-    "title": "Cerebras CS-4",
-    "url": "https://www.cerebras.ai/cs4",
-    "score": 120
+    "title": "Bun 1.4 Rust rewrite is not looking good",
+    "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+    "score": 55
+  },
+  {
+    "title": "OpenLogi",
+    "url": "https://openlogi.org/en",
+    "score": 270
   }
 ]
