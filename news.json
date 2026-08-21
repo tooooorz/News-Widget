@@ -1,17 +1,17 @@
 [
   {
-    "title": "The Lost Treasure of Sid Meier's Pirates",
-    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-    "score": 60
+    "title": "DeepSeek-v4-flash-vision-exp",
+    "url": "https://api-docs.deepseek.com/guides/vision/",
+    "score": 152
   },
   {
-    "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-    "url": "https://encore.dev/blog/firecracker-apple-silicon",
-    "score": 53
+    "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+    "url": "https://annas-archive.pk/blog/physical-destruction.html",
+    "score": 91
   },
   {
-    "title": "The August 17 outage",
-    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-    "score": 516
+    "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+    "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+    "score": 19
   }
 ]
