@@ -1,17 +1,17 @@
 [
   {
-    "title": "Codex on AWS bedrock bug causing 10x charges",
-    "url": "https://github.com/openai/codex/issues/37674",
-    "score": 86
+    "title": "The Lost Treasure of Sid Meier's Pirates",
+    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+    "score": 60
+  },
+  {
+    "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+    "url": "https://encore.dev/blog/firecracker-apple-silicon",
+    "score": 53
   },
   {
     "title": "The August 17 outage",
     "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-    "score": 440
-  },
-  {
-    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
-    "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-    "score": 6
+    "score": 516
   }
 ]
