@@ -1,17 +1,17 @@
 [
   {
-    "title": "Paul Atkins Misreads Adam Smith and the American Founding",
-    "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
-    "score": 38
-  },
-  {
-    "title": "Kobo can run apps now",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "score": 404
+    "title": "There's no reason for software to be slow anymore",
+    "url": "https://danluu.com/perf-opt/",
+    "score": 110
   },
   {
     "title": "Felony Bench",
     "url": "https://www.felonybench.com/",
-    "score": 491
+    "score": 571
+  },
+  {
+    "title": "Kobo can run apps now",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "score": 454
   }
 ]
