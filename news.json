@@ -1,17 +1,17 @@
 [
   {
-    "title": "Debian votes to allow \"responsible use of generative AI\"",
-    "url": "https://lwn.net/Articles/1091231/",
-    "score": 225
+    "title": "The Internet Is Kind of a Predatory Cesspit Now",
+    "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
+    "score": 227
   },
   {
-    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-    "url": "https://uecker.codeberg.page/2026-08-29.html",
-    "score": 22
+    "title": "Warp builds self-improving agents on Claude",
+    "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "score": 30
   },
   {
-    "title": "SQLite as a Document Database (2020)",
-    "url": "https://dgl.cx/2020/06/sqlite-json-support",
-    "score": 25
+    "title": "Tether: iMessage, SMS, etc. on Linux",
+    "url": "https://zackbartel.com/blog/2026/08/tether/",
+    "score": 179
   }
 ]
