@@ -1,17 +1,17 @@
 [
   {
-    "title": "Iceland votes on whether to restart talks on joining EU",
-    "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
-    "score": 24
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "url": "https://lwn.net/Articles/1091231/",
+    "score": 225
   },
   {
-    "title": "Samsung's Processing-in-Memory (PIM)",
-    "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-    "score": 130
+    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+    "url": "https://uecker.codeberg.page/2026-08-29.html",
+    "score": 22
   },
   {
-    "title": "Europe's last regular standard-gauge steam passenger service",
-    "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
-    "score": 58
+    "title": "SQLite as a Document Database (2020)",
+    "url": "https://dgl.cx/2020/06/sqlite-json-support",
+    "score": 25
   }
 ]
