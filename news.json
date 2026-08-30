@@ -1,17 +1,17 @@
 [
   {
-    "title": "Bug Blindness",
-    "url": "https://danluu.com/bug-blind/",
-    "score": 60
+    "title": "RISC-V is now officially supported by CPython",
+    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+    "score": 138
   },
   {
-    "title": "FreeCORE TrueNAS Core \u2013 Continued",
-    "url": "https://freecore.org/",
-    "score": 24
+    "title": "Bug Blindness",
+    "url": "https://danluu.com/bug-blind/",
+    "score": 233
   },
   {
     "title": "Hy4 preview",
     "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-    "score": 203
+    "score": 279
   }
 ]
