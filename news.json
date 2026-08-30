@@ -1,17 +1,17 @@
 [
   {
-    "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+    "title": "Bug Blindness",
+    "url": "https://danluu.com/bug-blind/",
+    "score": 60
+  },
+  {
+    "title": "FreeCORE TrueNAS Core \u2013 Continued",
+    "url": "https://freecore.org/",
+    "score": 24
+  },
+  {
+    "title": "Hy4 preview",
     "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-    "score": 120
-  },
-  {
-    "title": "$44M Solar-Powered EV Production Deal Struck",
-    "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
-    "score": 21
-  },
-  {
-    "title": "Tether: iMessage, SMS, etc. on Linux",
-    "url": "https://zackbartel.com/blog/2026/08/tether/",
-    "score": 277
+    "score": 203
   }
 ]
