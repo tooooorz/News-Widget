@@ -1,17 +1,17 @@
 [
   {
-    "title": "Hang on to Your Firefox",
-    "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
-    "score": 535
-  },
-  {
     "title": "Claude Fable 5.1 and Claude Mythos 5.1",
     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-    "score": 942
+    "score": 1157
+  },
+  {
+    "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+    "url": "https://arxiv.org/abs/2608.29530",
+    "score": 76
   },
   {
     "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
     "url": "https://danluu.com/zitron/",
-    "score": 423
+    "score": 638
   }
 ]
