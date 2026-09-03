@@ -1,17 +1,17 @@
 [
   {
-    "title": "Muse Spark 1.3",
-    "url": "https://developer.meta.com/ai/models/muse-spark/",
-    "score": 531
+    "title": "Audacity 4.0",
+    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+    "score": 244
   },
   {
-    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-    "score": 973
+    "title": "Pre-Release of Polars 2.0",
+    "url": "https://pola.rs/posts/announcing-polars-2/",
+    "score": 247
   },
   {
-    "title": "The Computer Museum of America reclamation project",
-    "url": "https://computer-museum.org/wp/",
-    "score": 24
+    "title": "The Browser's Main Thread Is Expensive",
+    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+    "score": 192
   }
 ]
