@@ -1,17 +1,17 @@
 [
   {
+    "title": "Formalizing Fermat's Last Theorem",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "score": 164
+  },
+  {
     "title": "Discovery of a new OpenAI agent message board",
     "url": "https://collusion.wiki/",
-    "score": 968
+    "score": 1213
   },
   {
-    "title": "Show HN: Open-Source eInk Bike Computer",
-    "url": "https://opentrailpaper.com",
-    "score": 18
-  },
-  {
-    "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-    "score": 21
+    "title": "Shutting down our public encrypted DNS",
+    "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "score": 85
   }
 ]
