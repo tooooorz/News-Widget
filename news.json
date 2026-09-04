@@ -1,17 +1,17 @@
 [
   {
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "score": 120
+  },
+  {
+    "title": "Solving the Jane Street Reverse Engineering Challenge",
+    "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+    "score": 129
+  },
+  {
     "title": "GPT-6 Astra",
     "url": "https://openai.com/index/gpt-6-astra/",
-    "score": 1672
-  },
-  {
-    "title": ".name Termination",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "score": 1688
-  },
-  {
-    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "url": "https://inference-docs.cerebras.ai/models/overview",
-    "score": 526
+    "score": 1912
   }
 ]
