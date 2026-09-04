@@ -2,16 +2,16 @@
   {
     "title": "GPT-6 Astra",
     "url": "https://openai.com/index/gpt-6-astra/",
-    "score": 1069
-  },
-  {
-    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "url": "https://inference-docs.cerebras.ai/models/overview",
-    "score": 388
+    "score": 1333
   },
   {
     "title": ".name Termination",
     "url": "https://neil.fraser.name/news/2026/09/03/",
-    "score": 1192
+    "score": 1371
+  },
+  {
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "url": "https://inference-docs.cerebras.ai/models/overview",
+    "score": 455
   }
 ]
