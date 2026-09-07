@@ -1,17 +1,17 @@
 [
   {
+    "title": "Keep Our Servers Running",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "score": 314
+  },
+  {
     "title": "Making a Python interpreter in 1024 bytes",
     "url": "https://austinhenley.com/blog/python1024.html",
-    "score": 81
+    "score": 199
   },
   {
-    "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-    "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-    "score": 196
-  },
-  {
-    "title": "It took a year to ship WebAssembly in Anubis",
-    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-    "score": 140
+    "title": "Ask HN: Fable hacked my piano, can I release the results?",
+    "url": "",
+    "score": 118
   }
 ]
