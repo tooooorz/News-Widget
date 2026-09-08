@@ -1,17 +1,17 @@
 [
   {
+    "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "score": 38
+  },
+  {
     "title": "Google DeepMind Releases AlphaGenome Atlas",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-    "score": 263
+    "score": 465
   },
   {
-    "title": "On the Navier\u2013Stokes Millennium Prize Problem",
-    "url": "https://openai.com/index/navier-stokes-solution/",
-    "score": 330
-  },
-  {
-    "title": "DaVinci Resolve 21.1",
-    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-    "score": 248
+    "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "score": 1061
   }
 ]
