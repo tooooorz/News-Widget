@@ -1,17 +1,17 @@
 [
   {
+    "title": "The Navier\u2013Stokes Millennium Prize Problem",
+    "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+    "score": 144
+  },
+  {
     "title": "Muse \u2013 Meta\u2019s personal AI agent",
     "url": "https://ai.meta.com/muse/",
-    "score": 321
+    "score": 473
   },
   {
-    "title": "Large language models develop novel social biases through adaptive exploration",
-    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-    "score": 94
-  },
-  {
-    "title": "How to build a printer",
-    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-    "score": 145
+    "title": "Trying",
+    "url": "https://gwern.net/on-really-trying",
+    "score": 15
   }
 ]
