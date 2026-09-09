@@ -1,17 +1,17 @@
 [
   {
-    "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+    "title": "Muse \u2013 Meta\u2019s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "score": 321
+  },
+  {
+    "title": "Large language models develop novel social biases through adaptive exploration",
     "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-    "score": 38
+    "score": 94
   },
   {
-    "title": "Google DeepMind Releases AlphaGenome Atlas",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-    "score": 465
-  },
-  {
-    "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
-    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-    "score": 1061
+    "title": "How to build a printer",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "score": 145
   }
 ]
