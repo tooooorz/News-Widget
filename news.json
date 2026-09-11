@@ -2,16 +2,16 @@
   {
     "title": "A misalignment of AI in mathematics",
     "url": "https://mathandai.org/",
-    "score": 264
+    "score": 488
+  },
+  {
+    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "score": 179
   },
   {
     "title": "GrapheneOS' rewritten Messages app is released",
     "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-    "score": 61
-  },
-  {
-    "title": "Litelm: LiteLLM Without the Bloat",
-    "url": "https://github.com/kennethwolters/litelm",
-    "score": 45
+    "score": 153
   }
 ]
