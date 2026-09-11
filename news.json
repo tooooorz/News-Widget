@@ -1,17 +1,17 @@
 [
   {
+    "title": "YuE2 \u00b7 Frontier Music with Symbolic Planning",
+    "url": "https://map-yue2.github.io/",
+    "score": 36
+  },
+  {
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "url": "https://shopify.engineering/back-to-native",
+    "score": 787
+  },
+  {
     "title": "More questions about whether researchers can trust OpenAI with unpublished math",
     "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "score": 540
-  },
-  {
-    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-    "url": "https://cognition.com/blog/swe-2",
-    "score": 330
-  },
-  {
-    "title": "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
-    "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-    "score": 32
+    "score": 678
   }
 ]
