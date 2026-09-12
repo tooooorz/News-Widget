@@ -1,17 +1,17 @@
 [
   {
-    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-    "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-    "score": 210
-  },
-  {
     "title": "Make your first edit to OpenStreetMap",
     "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-    "score": 128
+    "score": 246
   },
   {
     "title": "Nvidia is the central bank of AI",
     "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-    "score": 229
+    "score": 326
+  },
+  {
+    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "url": "https://withspecific.com/benchmarks/real-swe",
+    "score": 47
   }
 ]
