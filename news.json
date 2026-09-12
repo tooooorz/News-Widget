@@ -1,17 +1,17 @@
 [
   {
+    "title": "google.com/goto: Google's anti-scraping update",
+    "url": "https://www.autom.dev/blog/google-search-goto-links",
+    "score": 334
+  },
+  {
+    "title": "Navier-Stokes Announcement",
+    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "score": 95
+  },
+  {
     "title": "A misalignment of AI in mathematics",
     "url": "https://mathandai.org/",
-    "score": 656
-  },
-  {
-    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-    "score": 307
-  },
-  {
-    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "url": "https://www.rubyhack.ai/",
-    "score": 337
+    "score": 842
   }
 ]
