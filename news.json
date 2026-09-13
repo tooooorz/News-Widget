@@ -2,16 +2,16 @@
   {
     "title": "Make your first edit to OpenStreetMap",
     "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-    "score": 246
-  },
-  {
-    "title": "Nvidia is the central bank of AI",
-    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-    "score": 326
+    "score": 334
   },
   {
     "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
     "url": "https://withspecific.com/benchmarks/real-swe",
-    "score": 47
+    "score": 120
+  },
+  {
+    "title": "Nvidia is the central bank of AI",
+    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "score": 402
   }
 ]
