@@ -1,17 +1,17 @@
 [
   {
-    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "score": 855
+    "title": "How to Write an Effective Software Design Document",
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "score": 147
   },
   {
-    "title": "Spaceships (Reverse Asteroid)",
-    "url": "https://spaceships.treybastian.com/",
-    "score": 202
+    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+    "score": 33
   },
   {
-    "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-    "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-    "score": 228
+    "title": "Jabber/XMPP: How Do We Gain Traction?",
+    "url": "https://gultsch.de/posts/how-do-we-gain-traction/",
+    "score": 28
   }
 ]
