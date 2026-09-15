@@ -2,16 +2,16 @@
   {
     "title": "iOS 27, iPadOS 27, and macOS 27",
     "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-    "score": 395
+    "score": 569
   },
   {
-    "title": "Pion, an agent designed to run any company autonomously",
-    "url": "https://andonlabs.com/blog/why-we-built-pion",
-    "score": 298
+    "title": "Linux from Scratch",
+    "url": "https://www.linuxfromscratch.org/",
+    "score": 136
   },
   {
-    "title": "Charts built for Chat",
-    "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-    "score": 108
+    "title": "OpenArm: An open-source 7DOF humanoid arm",
+    "url": "https://github.com/enactic/OpenArm",
+    "score": 62
   }
 ]
