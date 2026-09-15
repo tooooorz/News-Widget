@@ -1,17 +1,17 @@
 [
   {
+    "title": "Introducing System One Models and Jev",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "score": 571
+  },
+  {
     "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
     "url": "https://github.com/arnegiacomo/fugleramme",
-    "score": 840
+    "score": 1208
   },
   {
-    "title": "An Update on Wayback Machine Access",
-    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-    "score": 41
-  },
-  {
-    "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-    "score": 23
+    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+    "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+    "score": 87
   }
 ]
