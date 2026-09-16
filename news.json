@@ -1,17 +1,17 @@
 [
   {
-    "title": "Small Programming Tricks",
-    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-    "score": 159
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "url": "https://rohanbansal.com/qorl",
+    "score": 331
   },
   {
-    "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-    "url": "https://arxiv.org/abs/2609.14858",
-    "score": 123
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "url": "https://arxiv.org/abs/2609.16338",
+    "score": 93
   },
   {
-    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "url": "https://mistral.ai/news/mistral-x-mozilla/",
-    "score": 419
+    "title": "Nvidia announces native GPU programming in Rust",
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "score": 85
   }
 ]
