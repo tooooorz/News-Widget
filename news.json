@@ -1,17 +1,17 @@
 [
   {
+    "title": "Hister: A private search engine for the pages you visit and the files you keep",
+    "url": "https://github.com/asciimoo/hister",
+    "score": 119
+  },
+  {
     "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
     "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-    "score": 41
+    "score": 375
   },
   {
-    "title": "One Year of Sponsored Servo Development",
-    "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-    "score": 219
-  },
-  {
-    "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
-    "url": "https://flat.social",
-    "score": 30
+    "title": "CrowdSec Source Code Leak",
+    "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+    "score": 61
   }
 ]
