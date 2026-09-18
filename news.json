@@ -1,17 +1,17 @@
 [
   {
-    "title": "Hacking OpenAI",
-    "url": "https://www.hacktron.ai/blog/hacking-openai",
-    "score": 299
+    "title": "Bend 2 and the Vibe-Coding Trap",
+    "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+    "score": 125
   },
   {
-    "title": "Jemalloc 5.4.0",
-    "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-    "score": 58
+    "title": "OpenJev",
+    "url": "https://openjev.com/",
+    "score": 237
   },
   {
-    "title": "The scourge of x86 emulation",
-    "url": "https://fex-emu.com/Scourge-of-emulation/",
-    "score": 71
+    "title": "I don't like passkeys",
+    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "score": 108
   }
 ]
