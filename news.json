@@ -1,17 +1,17 @@
 [
   {
-    "title": "Astra for Law",
-    "url": "https://openai.com/index/astra-for-law/",
-    "score": 326
+    "title": "Hacking OpenAI",
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "score": 299
   },
   {
-    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-    "url": "https://prismml.com/news/bonsai-2-27b",
-    "score": 237
+    "title": "Jemalloc 5.4.0",
+    "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+    "score": 58
   },
   {
-    "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-    "url": "https://bend-lang.com/",
-    "score": 292
+    "title": "The scourge of x86 emulation",
+    "url": "https://fex-emu.com/Scourge-of-emulation/",
+    "score": 71
   }
 ]
