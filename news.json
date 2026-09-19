@@ -1,17 +1,17 @@
 [
   {
-    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-    "url": "https://code.claude.com/docs/en/changelog",
-    "score": 291
-  },
-  {
     "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
     "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-    "score": 384
+    "score": 553
+  },
+  {
+    "title": "Cloudflare Quick Tunnels",
+    "url": "https://try.cloudflare.com/",
+    "score": 587
   },
   {
     "title": "Saving another 100TB of RAM",
     "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-    "score": 156
+    "score": 231
   }
 ]
