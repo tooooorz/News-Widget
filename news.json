@@ -1,17 +1,17 @@
 [
   {
-    "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+    "title": "I built non-autoregressive decision models with RL a year ago",
     "url": "https://laya.convaiinnovations.com/",
-    "score": 616
-  },
-  {
-    "title": "A graphical desktop for the ZX Spectrum",
-    "url": "https://github.com/mindbox77/zxdesk",
-    "score": 88
+    "score": 815
   },
   {
     "title": "AI-generated posters don\u2019t have to be horrible",
     "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-    "score": 820
+    "score": 1040
+  },
+  {
+    "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+    "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+    "score": 30
   }
 ]
