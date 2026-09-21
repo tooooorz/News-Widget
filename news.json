@@ -1,17 +1,17 @@
 [
   {
+    "title": "Google's Open Agentic Orchestrator",
+    "url": "https://agentexecutor.io",
+    "score": 223
+  },
+  {
+    "title": "What happened to the Snowden archive",
+    "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+    "score": 178
+  },
+  {
     "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
     "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-    "score": 272
-  },
-  {
-    "title": "ChatGPT now knows what you do on other websites via ad collector",
-    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "score": 499
-  },
-  {
-    "title": "Qwen Image 2.1",
-    "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-    "score": 434
+    "score": 355
   }
 ]
