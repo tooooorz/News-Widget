@@ -1,17 +1,17 @@
 [
   {
-    "title": "GPT-6 Sol and Luna",
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-    "score": 1473
+    "title": "Claude Code reads AGENTS.md only when telemetry is on",
+    "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+    "score": 193
   },
   {
-    "title": "Claude Opus 5.5",
-    "url": "https://www.anthropic.com/claude-opus-5-5",
-    "score": 1487
+    "title": "The GitHub wiki is an anti-pattern",
+    "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+    "score": 27
   },
   {
-    "title": "Transit rewards",
-    "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-    "score": 120
+    "title": "Jev in 25 Lines of Python",
+    "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+    "score": 368
   }
 ]
