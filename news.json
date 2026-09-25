@@ -1,17 +1,17 @@
 [
   {
+    "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+    "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+    "score": 24
+  },
+  {
     "title": "F-Droid 2.0",
     "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-    "score": 965
+    "score": 1199
   },
   {
     "title": "Show HN: Make cursed fonts like Times New Bastard",
     "url": "https://bastardica.mitpit.com",
-    "score": 500
-  },
-  {
-    "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-    "url": "https://github.com/devdotfast/whiteboard",
-    "score": 209
+    "score": 663
   }
 ]
