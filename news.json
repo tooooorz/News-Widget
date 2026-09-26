@@ -1,17 +1,17 @@
 [
   {
-    "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-    "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-    "score": 510
-  },
-  {
     "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
     "url": "https://github.com/InfinityLoop1308/PipePipe",
-    "score": 123
+    "score": 292
   },
   {
-    "title": "Show HN: A Claude Code skill to analyze your chess games",
-    "url": "https://github.com/brumar/chess-postmortem-skills",
-    "score": 45
+    "title": "DeepSeek Elastic Compute (DSec)",
+    "url": "https://arxiv.org/abs/2609.22978",
+    "score": 109
+  },
+  {
+    "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+    "url": "https://github.com/reladraw/reladraw",
+    "score": 134
   }
 ]
