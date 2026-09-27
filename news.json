@@ -1,17 +1,17 @@
 [
   {
+    "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "score": 59
+  },
+  {
     "title": "Does Georgism work? Five years later",
     "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-    "score": 144
+    "score": 315
   },
   {
-    "title": "DeepSeek Elastic Compute (DSec)",
-    "url": "https://arxiv.org/abs/2609.22978",
-    "score": 165
-  },
-  {
-    "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-    "url": "https://github.com/InfinityLoop1308/PipePipe",
-    "score": 324
+    "title": "Flip Fluid on Flip Dots",
+    "url": "https://mitxela.com/projects/flipflip",
+    "score": 53
   }
 ]
