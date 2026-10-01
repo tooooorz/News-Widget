@@ -1,17 +1,17 @@
 [
   {
-    "title": "StreetComplete on iOS is now in public beta",
-    "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-    "score": 65
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "score": 63
   },
   {
-    "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-    "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-    "score": 40
+    "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "score": 296
   },
   {
-    "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-    "url": "https://github.com/maanHimself/OpenDLSS-NR",
-    "score": 123
+    "title": "RIP, vector database",
+    "url": "https://turbopuffer.com/blog/rip-vector-database",
+    "score": 199
   }
 ]
