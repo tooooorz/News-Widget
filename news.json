@@ -1,17 +1,17 @@
 [
   {
-    "title": "The Legend of von Neumann (1973) [pdf]",
-    "url": "https://gwern.net/doc/math/1973-halmos.pdf",
-    "score": 141
+    "title": "Apple Pass Designer",
+    "url": "https://developer.apple.com/pass-designer/",
+    "score": 207
   },
   {
-    "title": "Supabase is acquiring Turso",
-    "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
-    "score": 83
+    "title": "Zig v0.17.0",
+    "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+    "score": 52
   },
   {
     "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
     "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-    "score": 29
+    "score": 387
   }
 ]
