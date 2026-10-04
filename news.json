@@ -1,17 +1,17 @@
 [
   {
-    "title": "Remove and Disable Apple Macos27 AI Models Tool",
-    "url": "https://github.com/omlahore/RemoveMacAI",
-    "score": 44
-  },
-  {
     "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
     "url": "https://github.com/Niko1221/Strata",
-    "score": 461
+    "score": 558
   },
   {
-    "title": "Improper redaction reveals Google Data Center water and electricity usage",
-    "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-    "score": 44
+    "title": "\"No Vendor Lock-In\" Is Code for \"No Product\"",
+    "url": "https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product",
+    "score": 8
+  },
+  {
+    "title": "Infidel goes wild",
+    "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+    "score": 39
   }
 ]
