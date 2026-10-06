@@ -1,17 +1,17 @@
 [
   {
+    "title": "Nobel Prize in Physics goes to Francis Halzen",
+    "url": "https://www.nobelprize.org/prizes/physics/2026/",
+    "score": 167
+  },
+  {
+    "title": "Gleam doesn't compile to Erlang source anymore",
+    "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+    "score": 69
+  },
+  {
     "title": "Beam: Reflection's 501B open-weight model",
     "url": "https://reflection.ai/blog/introducing-beam",
-    "score": 354
-  },
-  {
-    "title": "Find the flattest route between any two points in SF",
-    "url": "https://flattensf.com/",
-    "score": 135
-  },
-  {
-    "title": "Example.com just launched the biggest redesign in decades",
-    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-    "score": 117
+    "score": 479
   }
 ]
