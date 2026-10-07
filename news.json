@@ -1,17 +1,17 @@
 [
   {
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "score": 263
+  },
+  {
     "title": "Mistral Large 4",
     "url": "https://mistral.ai/news/mistral-large-4/\\",
-    "score": 1243
+    "score": 1552
   },
   {
-    "title": "Nobel Prize in Physics 2026: Francis Halzen",
-    "url": "https://www.nobelprize.org/prizes/physics/2026/",
-    "score": 441
-  },
-  {
-    "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
-    "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
-    "score": 107
+    "title": "Decisions API is in public beta",
+    "url": "https://developers.openai.com/api/docs/guides/decisions",
+    "score": 104
   }
 ]
