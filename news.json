@@ -1,17 +1,17 @@
 [
   {
+    "title": "Build your own decision model",
+    "url": "https://nishtahir.com/build-your-own-decision-model/",
+    "score": 44
+  },
+  {
     "title": "2D Vehicles",
     "url": "https://patkerr.co.uk/2d-vehicles/",
-    "score": 166
+    "score": 327
   },
   {
-    "title": "Knuth reward check",
-    "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-    "score": 103
-  },
-  {
-    "title": "Why DuckDB 2.0 is faster",
-    "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-    "score": 51
+    "title": "A city-building game in which the city would prefer you didn't",
+    "url": "https://housing.over.pizza/",
+    "score": 126
   }
 ]
