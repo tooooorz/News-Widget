@@ -1,17 +1,17 @@
 [
   {
+    "title": "`123456' password used in Danish CPR data breach",
+    "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+    "score": 107
+  },
+  {
     "title": "REA Reverse \u2013 Engineer Anything",
     "url": "https://rea.tools/",
-    "score": 145
+    "score": 463
   },
   {
-    "title": "Cloudflare acquires Deno",
-    "url": "https://deno.com/blog/cloudflare",
-    "score": 1101
-  },
-  {
-    "title": "Triple-A Minesweeper",
-    "url": "https://minesweeper.mikelacher.com/",
-    "score": 724
+    "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+    "url": "https://github.com/rociiu/talorys",
+    "score": 10
   }
 ]
