@@ -1,17 +1,17 @@
 [
   {
-    "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+    "title": "I paid people to try and follow my README",
+    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+    "score": 237
+  },
+  {
+    "title": "Bot traffic from Yandex",
     "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-    "score": 67
+    "score": 495
   },
   {
-    "title": "Nitter: Update Oct 10th seeking funding and legal help",
-    "url": "https://nitter.net",
-    "score": 110
-  },
-  {
-    "title": "IRCv3",
-    "url": "https://ircv3.net/",
-    "score": 97
+    "title": "The tilde in your PATH may not be your HOME",
+    "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+    "score": 125
   }
 ]
