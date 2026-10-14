@@ -1,17 +1,17 @@
 [
   {
-    "title": "Switzerland proposes banning profiling-based ads to minors",
-    "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
-    "score": 153
+    "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "score": 370
   },
   {
-    "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
-    "url": "https://typeof.net/Iosevka/",
-    "score": 345
+    "title": "Better HTTP/1 connection reuse in Go 1.27",
+    "url": "https://go.dev/blog/http-connection-reuse",
+    "score": 94
   },
   {
-    "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-    "url": "https://github.com/timescale/pg_vectorsearch",
-    "score": 71
+    "title": "How the Military Will Hack the Election",
+    "url": "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election",
+    "score": 53
   }
 ]
