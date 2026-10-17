@@ -1,17 +1,17 @@
 [
   {
+    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+    "score": 267
+  },
+  {
     "title": "Ultramarine 1\u00a0Flash",
     "url": "https://www.paperinstruments.com/ultramarine",
-    "score": 183
+    "score": 276
   },
   {
     "title": "Tesla Roadster",
     "url": "https://www.tesla.com/roadster",
-    "score": 1356
-  },
-  {
-    "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
-    "url": "https://llmspeed.dev/",
-    "score": 25
+    "score": 1474
   }
 ]
