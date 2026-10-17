@@ -1,17 +1,17 @@
 [
   {
+    "title": "Ultramarine 1\u00a0Flash",
+    "url": "https://www.paperinstruments.com/ultramarine",
+    "score": 183
+  },
+  {
     "title": "Tesla Roadster",
     "url": "https://www.tesla.com/roadster",
-    "score": 1203
+    "score": 1356
   },
   {
-    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "url": "https://github.com/cobanov/PS5LM",
-    "score": 204
-  },
-  {
-    "title": "Claude reveals ECDSA curve origins",
-    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "score": 691
+    "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+    "url": "https://llmspeed.dev/",
+    "score": 25
   }
 ]
