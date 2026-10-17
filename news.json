@@ -2,16 +2,16 @@
   {
     "title": "Tesla Roadster",
     "url": "https://www.tesla.com/roadster",
-    "score": 1054
+    "score": 1203
   },
   {
-    "title": "FLUX 3 Image Klein",
-    "url": "https://bfl.ai/blog/flux-3-image-klein",
-    "score": 82
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "url": "https://github.com/cobanov/PS5LM",
+    "score": 204
   },
   {
     "title": "Claude reveals ECDSA curve origins",
     "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "score": 547
+    "score": 691
   }
 ]
