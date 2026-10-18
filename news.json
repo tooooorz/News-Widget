@@ -1,17 +1,17 @@
 [
   {
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "url": "https://arxiv.org/abs/2610.18861",
+    "score": 103
+  },
+  {
     "title": "Someone behind the software",
     "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-    "score": 140
+    "score": 252
   },
   {
-    "title": "RepRapMicron",
-    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-    "score": 271
-  },
-  {
-    "title": "HOA's are making the home crisis worse",
-    "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-    "score": 91
+    "title": "Free Pascal compiler now supports dynamic packages",
+    "url": "https://www.getlazarus.org/dynamic/",
+    "score": 87
   }
 ]
