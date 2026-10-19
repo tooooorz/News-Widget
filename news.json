@@ -1,17 +1,17 @@
 [
   {
-    "title": "Linux 7.3 Released",
+    "title": "Wine Ported to OpenBSD",
+    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+    "score": 179
+  },
+  {
+    "title": "Timestral: Mistral release time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "score": 310
+  },
+  {
+    "title": "Linux 7.3",
     "url": "https://lwn.net/Articles/1101143/",
-    "score": 42
-  },
-  {
-    "title": "Rabbits were a medieval royal luxury in England until the Black Death",
-    "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
-    "score": 68
-  },
-  {
-    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "url": "https://arxiv.org/abs/2610.18861",
-    "score": 371
+    "score": 483
   }
 ]
