@@ -1,17 +1,17 @@
 [
   {
+    "title": "Linux 7.3 Released",
+    "url": "https://lwn.net/Articles/1101143/",
+    "score": 42
+  },
+  {
+    "title": "Rabbits were a medieval royal luxury in England until the Black Death",
+    "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+    "score": 68
+  },
+  {
     "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
     "url": "https://arxiv.org/abs/2610.18861",
-    "score": 225
-  },
-  {
-    "title": "William Gibson and the trademarking of cyberspace",
-    "url": "https://colo.to/cyberspace.html",
-    "score": 74
-  },
-  {
-    "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-    "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-    "score": 178
+    "score": 371
   }
 ]
