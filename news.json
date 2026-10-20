@@ -1,17 +1,17 @@
 [
   {
-    "title": "DeepSeek just open-sourced its inference engine",
+    "title": "Voxtral 3",
+    "url": "https://mistral.ai/news/voxtral-3/",
+    "score": 281
+  },
+  {
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
     "url": "https://github.com/deepseek-ai/DeepInfer",
-    "score": 1080
+    "score": 1914
   },
   {
-    "title": "Apple broke an essential presentation feature of iPads",
-    "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-    "score": 75
-  },
-  {
-    "title": "NixOS is making me less afraid",
-    "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-    "score": 29
+    "title": "EMudhra Intermediate CA Compromise",
+    "url": "https://emudhra.we-have-a-problem.com/",
+    "score": 328
   }
 ]
