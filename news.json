@@ -1,17 +1,17 @@
 [
   {
-    "title": "Updated PHP version released to GitHub",
+    "title": "PHP 8.2.35",
     "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-    "score": 168
+    "score": 851
   },
   {
-    "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
-    "url": "https://www.php.net/index.php",
-    "score": 127
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "score": 317
   },
   {
-    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-    "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-    "score": 443
+    "title": "The compiler was supposed to end programming too",
+    "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+    "score": 33
   }
 ]
