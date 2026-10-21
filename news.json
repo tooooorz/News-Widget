@@ -1,17 +1,17 @@
 [
   {
-    "title": "SimCity, but with Permits",
+    "title": "Show HN: SimCity, but with Permits",
     "url": "https://permit.petercai.com/",
-    "score": 450
+    "score": 593
+  },
+  {
+    "title": "Learning to live with Waymos",
+    "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+    "score": 15
   },
   {
     "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
     "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-    "score": 30
-  },
-  {
-    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-    "url": "https://github.com/deepseek-ai/DeepInfer",
-    "score": 2087
+    "score": 112
   }
 ]
