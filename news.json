@@ -1,17 +1,17 @@
 [
   {
-    "title": "Railway Security Disclosure",
+    "title": "mitmproxy adds --emudhra option",
+    "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+    "score": 221
+  },
+  {
+    "title": "Security Disclosure",
     "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "score": 217
+    "score": 324
   },
   {
-    "title": "Today's PHP security release, and how we're strengthening security",
-    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-    "score": 637
-  },
-  {
-    "title": "GitLab Critical Patch Release",
-    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-    "score": 214
+    "title": "There isn't an easy exploit for this PHP vulnerability",
+    "url": "https://eliastaylor.com/noexploit/",
+    "score": 180
   }
 ]
