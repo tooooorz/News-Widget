@@ -1,17 +1,17 @@
 [
   {
-    "title": "mitmproxy adds --emudhra option",
-    "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-    "score": 221
+    "title": "OpenAI CLI",
+    "url": "https://github.com/openai/openai-cli",
+    "score": 75
   },
   {
-    "title": "Security Disclosure",
-    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "score": 324
+    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+    "score": 176
   },
   {
-    "title": "There isn't an easy exploit for this PHP vulnerability",
-    "url": "https://eliastaylor.com/noexploit/",
-    "score": 180
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "score": 120
   }
 ]
