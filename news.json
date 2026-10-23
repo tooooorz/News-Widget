@@ -2,16 +2,16 @@
   {
     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-    "score": 303
-  },
-  {
-    "title": "Today, we hacked what we'd set out to hack: the iPhone",
-    "url": "https://blog.calif.io/p/iphone",
-    "score": 434
+    "score": 651
   },
   {
     "title": "Apple Music 404 Not Found",
     "url": "https://music.apple.com/this-url-doesnt-exist",
-    "score": 79
+    "score": 502
+  },
+  {
+    "title": "CVE Tracker",
+    "url": "https://cve.0xosprey.com/",
+    "score": 63
   }
 ]
