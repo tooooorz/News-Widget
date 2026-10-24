@@ -1,17 +1,17 @@
 [
   {
+    "title": "I Don't Understand Quantum Physics (2018)",
+    "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+    "score": 115
+  },
+  {
     "title": "OBS Studio 33",
     "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-    "score": 74
+    "score": 221
   },
   {
     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-    "score": 872
-  },
-  {
-    "title": "Twelve years of distributed SQLite",
-    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-    "score": 158
+    "score": 955
   }
 ]
