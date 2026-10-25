@@ -1,17 +1,17 @@
 [
   {
+    "title": "Dolly Parton's Imagination Library",
+    "url": "https://imaginationlibrary.com/",
+    "score": 157
+  },
+  {
+    "title": "Eunice is almost here (William Gibson, Agency)",
+    "url": "https://armincat.com/articles/eunice-is-almost-here",
+    "score": 13
+  },
+  {
     "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
     "url": "https://lynchlab.net/llm-skin-cancer",
-    "score": 28
-  },
-  {
-    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-    "url": "https://talkweb.eu/openweb/4558/",
-    "score": 49
-  },
-  {
-    "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
-    "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
-    "score": 14
+    "score": 254
   }
 ]
