@@ -1,17 +1,17 @@
 [
   {
+    "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+    "url": "https://titleart.dvy.io/",
+    "score": 180
+  },
+  {
+    "title": "PaperPilot \u2013 Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+    "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+    "score": 110
+  },
+  {
     "title": "Dolly Parton's Imagination Library",
     "url": "https://imaginationlibrary.com/",
-    "score": 395
-  },
-  {
-    "title": "Overgrown, when plants invade your abandoned tabs",
-    "url": "https://charliegerard.dev/blog/overgrown-extension/",
-    "score": 145
-  },
-  {
-    "title": "F-Zero X on Nintendo 3DS",
-    "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-    "score": 46
+    "score": 521
   }
 ]
