@@ -1,17 +1,17 @@
 [
   {
-    "title": "Working with academic communities to build scientific understanding",
+    "title": "Three new discoveries in mathematics, computer science, and physics",
     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-    "score": 44
+    "score": 548
   },
   {
-    "title": "Type Server Protocol",
-    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-    "score": 155
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "score": 352
   },
   {
     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-    "score": 491
+    "score": 583
   }
 ]
