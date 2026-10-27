@@ -2,16 +2,16 @@
   {
     "title": "Three new discoveries in mathematics, computer science, and physics",
     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-    "score": 548
+    "score": 835
+  },
+  {
+    "title": "The Mythical Man-Month in the Age of AI",
+    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "score": 69
   },
   {
     "title": "The Exponential Time Hypothesis Is False [pdf]",
     "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-    "score": 352
-  },
-  {
-    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-    "score": 583
+    "score": 591
   }
 ]
