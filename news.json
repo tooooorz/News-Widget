@@ -1,17 +1,17 @@
 [
   {
+    "title": "Git for US Legislation",
+    "url": "https://lexifina.com/blog/git-for-the-us-code",
+    "score": 24
+  },
+  {
     "title": "Genie 4",
     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "score": 565
+    "score": 761
   },
   {
-    "title": "Ghostty 1.4.0",
+    "title": "Ghostty 1.4",
     "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-    "score": 508
-  },
-  {
-    "title": "Tailscale SSH: Investigation and remediation update",
-    "url": "https://tailscale.com/ssh-investigation-update",
-    "score": 97
+    "score": 815
   }
 ]
