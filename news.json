@@ -1,17 +1,17 @@
 [
   {
-    "title": "Git for US Legislation",
+    "title": "Start Doing Graph Theory",
+    "url": "https://vertex.degree/",
+    "score": 131
+  },
+  {
+    "title": "Git for the US Code",
     "url": "https://lexifina.com/blog/git-for-the-us-code",
-    "score": 24
+    "score": 300
   },
   {
     "title": "Genie 4",
     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "score": 761
-  },
-  {
-    "title": "Ghostty 1.4",
-    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-    "score": 815
+    "score": 918
   }
 ]
