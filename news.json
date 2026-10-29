@@ -2,16 +2,16 @@
   {
     "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
     "url": "https://divagr.com/blog/qwenputer",
-    "score": 163
+    "score": 532
   },
   {
     "title": "Why is this fingerprinting script creating bioweapons?",
     "url": "https://nullpt.rs/fingerprinting-bioweapons",
-    "score": 921
+    "score": 1313
   },
   {
-    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-    "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-    "score": 106
+    "title": "Getting debug access on a Brother printer over Telnet",
+    "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+    "score": 76
   }
 ]
