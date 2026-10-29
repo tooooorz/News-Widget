@@ -1,17 +1,17 @@
 [
   {
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "score": 163
+  },
+  {
     "title": "Why is this fingerprinting script creating bioweapons?",
     "url": "https://nullpt.rs/fingerprinting-bioweapons",
-    "score": 509
+    "score": 921
   },
   {
-    "title": "Gemini 4 Carbon",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-    "score": 677
-  },
-  {
-    "title": "CNC Stone Carving",
-    "url": "https://carmelitegothic.com/cnc-stone-carving/",
-    "score": 345
+    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+    "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+    "score": 106
   }
 ]
