@@ -1,17 +1,17 @@
 [
   {
-    "title": "elect.horse",
-    "url": "https://elect.horse/",
-    "score": 68
+    "title": "A Working Nintendo in ~1GB of Qwen Weights",
+    "url": "https://github.com/dbreunig/nesformer",
+    "score": 28
   },
   {
-    "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
-    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-    "score": 1460
+    "title": "Northflank Breached",
+    "url": "https://status.northflank.com",
+    "score": 102
   },
   {
-    "title": "Backdoors in official Claude Code extensions",
-    "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-    "score": 88
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "score": 403
   }
 ]
