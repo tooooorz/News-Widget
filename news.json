@@ -1,17 +1,17 @@
 [
   {
-    "title": "Serbia just elected the world's brainiest parliament",
-    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-    "score": 137
+    "title": "Malware uses LLMs to rank victims by how much they're worth",
+    "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+    "score": 56
   },
   {
-    "title": "Switch Lowering in GCC",
-    "url": "https://xoranth.net/gcc-switch/",
-    "score": 72
-  },
-  {
-    "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+    "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
     "url": "https://piefed.world/post/1503394",
-    "score": 6
+    "score": 179
+  },
+  {
+    "title": "We Took over ChatGPT Accounts",
+    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "score": 191
   }
 ]
