@@ -2,16 +2,16 @@
   {
     "title": "HackerTube: YouTube built from videos recommended by HN",
     "url": "https://karpathy.bearblog.dev/hacker-tube/",
-    "score": 518
+    "score": 818
   },
   {
-    "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them",
+    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
     "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-    "score": 43
+    "score": 194
   },
   {
     "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
     "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-    "score": 266
+    "score": 372
   }
 ]
