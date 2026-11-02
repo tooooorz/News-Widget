@@ -1,17 +1,17 @@
 [
   {
+    "title": "Show HN: Wikihack \u2013 HackerTube, but for Wikipedia articles mentioned on HN",
+    "url": "https://wikihack.netlify.app",
+    "score": 181
+  },
+  {
     "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
     "url": "https://hackerbooks.org",
-    "score": 814
+    "score": 1387
   },
   {
-    "title": "U.S. workers took home their smallest share of capital since at least 1947",
-    "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
-    "score": 113
-  },
-  {
-    "title": "HackerTube: YouTube built from videos recommended by HN",
-    "url": "https://karpathy.bearblog.dev/hacker-tube/",
-    "score": 2211
+    "title": "Postgres 19 is late because so many more bugs are being found now",
+    "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "score": 454
   }
 ]
