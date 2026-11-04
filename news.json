@@ -1,17 +1,17 @@
 [
   {
-    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-    "url": "https://arxiv.org/abs/2605.29713",
-    "score": 198
+    "title": "Kitty 0.50",
+    "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+    "score": 89
   },
   {
-    "title": "Safari introduces Adaptive Dark Mode in 27.3",
-    "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-    "score": 260
+    "title": "Nvidia DGX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+    "score": 33
   },
   {
-    "title": "The Internals of PostgreSQL",
-    "url": "https://www.interdb.jp/pg/index.html",
-    "score": 80
+    "title": "Verification Is Not Knowledge: Science needs more than answers",
+    "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+    "score": 33
   }
 ]
