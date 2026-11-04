@@ -1,17 +1,17 @@
 [
   {
-    "title": "Kitty 0.50",
-    "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
-    "score": 89
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "score": 777
   },
   {
-    "title": "Nvidia DGX Spark encrypted firmware slows inference speed to 35% on Linux",
-    "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-    "score": 33
+    "title": "Progress on provable inference for large language models",
+    "url": "https://www.anthropic.com/research/provable-inference",
+    "score": 87
   },
   {
-    "title": "Verification Is Not Knowledge: Science needs more than answers",
-    "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-    "score": 33
+    "title": "A New Go API for JSON",
+    "url": "https://go.dev/blog/jsonv2",
+    "score": 35
   }
 ]
