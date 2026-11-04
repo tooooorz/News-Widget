@@ -1,17 +1,17 @@
 [
   {
-    "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-    "url": "https://flipper.net/pages/flipper-one",
-    "score": 63
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "score": 198
   },
   {
-    "title": "Jailbreaking my car's navigation system just so I can change the time",
-    "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-    "score": 421
+    "title": "Safari introduces Adaptive Dark Mode in 27.3",
+    "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+    "score": 260
   },
   {
-    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-    "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-    "score": 314
+    "title": "The Internals of PostgreSQL",
+    "url": "https://www.interdb.jp/pg/index.html",
+    "score": 80
   }
 ]
