@@ -1,17 +1,17 @@
 [
   {
+    "title": "Residential proxies detected on White House network",
+    "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "score": 594
+  },
+  {
+    "title": "Introducing Images 2.6",
+    "url": "https://openai.com/index/introducing-images-2-6/",
+    "score": 65
+  },
+  {
     "title": "AI is forcing us to pay off 40 years of technical debt",
     "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-    "score": 777
-  },
-  {
-    "title": "Progress on provable inference for large language models",
-    "url": "https://www.anthropic.com/research/provable-inference",
-    "score": 87
-  },
-  {
-    "title": "A New Go API for JSON",
-    "url": "https://go.dev/blog/jsonv2",
-    "score": 35
+    "score": 1046
   }
 ]
