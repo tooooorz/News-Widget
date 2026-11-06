@@ -1,17 +1,17 @@
 [
   {
-    "title": "sshole",
-    "url": "https://sshhole.com",
-    "score": 1702
+    "title": "Claude Code sends your email address to websites",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "score": 445
   },
   {
-    "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-    "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-    "score": 384
+    "title": "Search for everyone",
+    "url": "https://kagi.com/changelog#11820",
+    "score": 496
   },
   {
-    "title": "Motorola Signature 27 with GrapheneOS support",
-    "url": "https://motorolanews.com/motorola-signature-27-2/",
-    "score": 223
+    "title": "MS Paint Remote Code Execution Vulnerability",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "score": 295
   }
 ]
