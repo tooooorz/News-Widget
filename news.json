@@ -1,17 +1,17 @@
 [
   {
-    "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
-    "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
-    "score": 87
+    "title": "Libghostty 1.0",
+    "url": "https://mitchellh.com/writing/libghostty-1-0",
+    "score": 605
+  },
+  {
+    "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+    "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+    "score": 85
   },
   {
     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
     "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-    "score": 295
-  },
-  {
-    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-    "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-    "score": 57
+    "score": 463
   }
 ]
