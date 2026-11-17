@@ -1,17 +1,17 @@
 [
   {
+    "title": "We don't need more apps. We need better open source",
+    "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+    "score": 26
+  },
+  {
+    "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+    "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+    "score": 486
+  },
+  {
     "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
     "url": "https://www.cs.cmu.edu/learn/",
-    "score": 1070
-  },
-  {
-    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-    "score": 412
-  },
-  {
-    "title": "BugMeNot has closed",
-    "url": "https://www.bugmenot.com/",
-    "score": 426
+    "score": 1930
   }
 ]
