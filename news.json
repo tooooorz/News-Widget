@@ -1,17 +1,17 @@
 [
   {
+    "title": "Codeberg.org Not Reachable",
+    "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+    "score": 129
+  },
+  {
     "title": "Java4Shell: RCE in OpenJDK when processing Base64",
     "url": "https://calif.io/java4shell/",
-    "score": 410
+    "score": 964
   },
   {
-    "title": "GPT\u20116.2 Astra and Sol",
-    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-    "score": 1041
-  },
-  {
-    "title": "Quad9's withdrawal from France: A canary in the coal mine",
-    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-    "score": 178
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "score": 425
   }
 ]
