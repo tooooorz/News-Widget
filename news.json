@@ -1,17 +1,17 @@
 [
   {
-    "title": "We don't need more apps. We need better open source",
-    "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-    "score": 26
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "url": "https://calif.io/java4shell/",
+    "score": 410
   },
   {
-    "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-    "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-    "score": 486
+    "title": "GPT\u20116.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "score": 1041
   },
   {
-    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-    "url": "https://www.cs.cmu.edu/learn/",
-    "score": 1930
+    "title": "Quad9's withdrawal from France: A canary in the coal mine",
+    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "score": 178
   }
 ]
