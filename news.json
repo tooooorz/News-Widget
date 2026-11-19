@@ -1,17 +1,17 @@
 [
   {
-    "title": "Gemini 4 Neon",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-    "score": 462
+    "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
+    "url": "https://verialabs.com/ruby2shell/",
+    "score": 135
   },
   {
-    "title": "Unauthenticated remote code execution in Nginx",
-    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-    "score": 1150
+    "title": "What's New in PHP 8.6",
+    "url": "https://www.php.net/releases/8.6/en.php",
+    "score": 46
   },
   {
-    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-    "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-    "score": 75
+    "title": "Distributed, high-performance blob storage on SQLite",
+    "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+    "score": 49
   }
 ]
