@@ -1,17 +1,17 @@
 [
   {
-    "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
-    "url": "https://verialabs.com/ruby2shell/",
-    "score": 135
+    "title": "Anthropic hits $2T in Nasdaq debut",
+    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+    "score": 415
   },
   {
-    "title": "What's New in PHP 8.6",
-    "url": "https://www.php.net/releases/8.6/en.php",
-    "score": 46
+    "title": "Claude solves two open problems in the physics of black holes",
+    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+    "score": 173
   },
   {
-    "title": "Distributed, high-performance blob storage on SQLite",
-    "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-    "score": 49
+    "title": "Pancreatic cancer halted by virus injection in three patients",
+    "url": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+    "score": 69
   }
 ]
