@@ -1,17 +1,17 @@
 [
   {
-    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "url": "https://architectlabs.com/blog/frostbite",
-    "score": 29
+    "title": "Hurried Announcement: Alessandro Masullo GRH",
+    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+    "score": 272
   },
   {
-    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-    "url": "https://github.com/openssl/openssl/pull/33652",
-    "score": 261
+    "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+    "url": "https://alpo.ge/remark.pdf",
+    "score": 1845
   },
   {
-    "title": "The Strongest Sokoban Solver",
-    "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
-    "score": 59
+    "title": "Language Models Can Rewrite Their Own Weights",
+    "url": "https://arxiv.org/abs/2611.21885",
+    "score": 213
   }
 ]
