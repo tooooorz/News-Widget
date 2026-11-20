@@ -1,17 +1,17 @@
 [
   {
-    "title": "Anthropic\u2019s Nasdaq debut",
-    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-    "score": 912
+    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "url": "https://architectlabs.com/blog/frostbite",
+    "score": 29
   },
   {
-    "title": "Pancreatic cancer halted by virus injection in three patients",
-    "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-    "score": 594
+    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+    "url": "https://github.com/openssl/openssl/pull/33652",
+    "score": 261
   },
   {
-    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-    "url": "https://git-aarvin.github.io/mei/",
-    "score": 105
+    "title": "The Strongest Sokoban Solver",
+    "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+    "score": 59
   }
 ]
