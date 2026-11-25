@@ -1,17 +1,17 @@
 [
   {
-    "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
-    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-    "score": 240
+    "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+    "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+    "score": 134
   },
   {
-    "title": "Ternary Bonsai 2.5 27B",
-    "url": "https://prismml.com/news/bonsai-2-5-27b",
-    "score": 369
+    "title": "Investigating degraded experiences across GitHub products",
+    "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+    "score": 46
   },
   {
-    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-    "score": 103
+    "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+    "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+    "score": 227
   }
 ]
