@@ -1,17 +1,17 @@
 [
   {
-    "title": "What Cloudflare Doesn't Tell You",
-    "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
-    "score": 46
+    "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "score": 240
   },
   {
-    "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
-    "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-    "score": 203
+    "title": "Ternary Bonsai 2.5 27B",
+    "url": "https://prismml.com/news/bonsai-2-5-27b",
+    "score": 369
   },
   {
-    "title": "Canada's median health-care wait time hits 30.7 weeks\u2013longest ever recorded",
-    "url": "https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026",
-    "score": 36
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "score": 103
   }
 ]
