@@ -1,17 +1,17 @@
 [
   {
-    "title": "Intel One Mono font",
-    "url": "https://github.com/intel/intel-one-mono",
-    "score": 71
+    "title": "AMD Specific Patches for Llama.cpp",
+    "url": "https://devnull.land/amd-specific-llama-cpp",
+    "score": 175
   },
   {
-    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
-    "url": "https://scottaaronson.blog/?p=10379",
-    "score": 1618
+    "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+    "score": 113
   },
   {
-    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-    "score": 37
+    "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+    "url": "https://github.com/antonpictures/youtube-punisher",
+    "score": 104
   }
 ]
